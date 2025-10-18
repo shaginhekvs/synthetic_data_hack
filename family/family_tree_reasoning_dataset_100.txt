@@ -1,0 +1,1461 @@
+Case 1: Time-Dilated Aunt/Uncle
+Scenario:
+After a long relativistic voyage from Mexico City, Omar returns biologically younger than Ava, who
+remained on Earth and had a child, Zara. The family tree shows Omar and Ava as siblings despite
+their age difference reversing. Holidays rotate among households to keep everyone connected across
+neighborhoods. The point of the tree, they say, is not just biology but a promise to show up.
+
+Reasoning question:
+How is Omar related to Zara?
+
+Answer:
+Omar is Zara's aunt/uncle (sibling of the parent), even if chronological ages seem inverted.
+
+Case 2: Double First Cousins
+Scenario:
+In Stockholm, siblings Hana and Noah married siblings Clara and Ben, respectively. Hana and Clara
+had Fatima, while Noah and Ben had Samir. The families take joint vacations every year. The point of
+the tree, they say, is not just biology but a promise to show up. The family emphasizes that titles
+like aunt, cousin, or grandparent signal trust and care. A printed chart on the fridge tracks
+birthdays, anniversaries, and shared milestones.
+
+Reasoning question:
+What is the relationship between Fatima and Samir?
+
+Answer:
+They are double first cousins (they share both sets of grandparents).
+
+Case 3: Maternal Uncle and Niece/Nephew
+Scenario:
+In Marseille, Ibrahim and Clara have two children: Omar and Ava. Omar later has a child, Jiro.
+Family gatherings still happen at Ibrahim's apartment, where the siblings share stories from
+childhood. The photo wall shows Ava holding newborn Jiro at the hospital. Holidays rotate among
+households to keep everyone connected across neighborhoods. When disputes arise, they consult the
+tree and talk through responsibilities.
+
+Reasoning question:
+What is Ava's relation to Jiro? And how is Jiro related to Ava?
+
+Answer:
+Ava is Jiro's maternal uncle (mother's brother). In reverse, Jiro is Ava's niece/nephew.
+
+Case 4: Time-Dilated Aunt/Uncle
+Scenario:
+After a long relativistic voyage from Accra, Lea returns biologically younger than Aisha, who
+remained on Earth and had a child, Olivia. The family tree shows Lea and Aisha as siblings despite
+their age difference reversing. The point of the tree, they say, is not just biology but a promise
+to show up. They label the branches carefully so that children can explain the tree in class. Old
+letters and digital albums help younger members understand their lineage. Elders tell stories that
+map people to places and explain why names repeat.
+
+Reasoning question:
+How is Lea related to Olivia?
+
+Answer:
+Lea is Olivia's aunt/uncle (sibling of the parent), even if chronological ages seem inverted.
+
+Case 5: Great-Uncle/Aunt
+Scenario:
+In Havana, Elara and Samir are siblings. Samir is the parent of Lea, who is the parent of Ada. Old
+albums show Elara and Samir as children playing by the sea. Despite busy schedules, the family hosts
+monthly dinners to keep ties strong. The point of the tree, they say, is not just biology but a
+promise to show up. The family emphasizes that titles like aunt, cousin, or grandparent signal trust
+and care.
+
+Reasoning question:
+What is Elara's relation to Ada?
+
+Answer:
+Elara is Ada's great-uncle/aunt (sibling of the grandparent).
+
+Case 6: Siblings-in-Law
+Scenario:
+In Accra, Kim marries Noah. Jiro is Noah's sibling and often helps the couple move house or babysit.
+The three joke that family ties are just new lanes on the same road. School forms sometimes force
+the family to clarify who can sign or pick up a child. A printed chart on the fridge tracks
+birthdays, anniversaries, and shared milestones.
+
+Reasoning question:
+What is the relation between Kim and Jiro?
+
+Answer:
+They are siblings-in-law.
+
+Case 7: Great-Aunt/Uncle Through Lawful Lines
+Scenario:
+In Wellington, laws strictly prohibit close-kin marriages to avoid consanguinity. A local story
+problem asks: if Ada's sibling married someone unrelated (Carmen) and had Kim, then Kim had Nora,
+how is Ada related to Nora? The point of the tree, they say, is not just biology but a promise to
+show up. The family emphasizes that titles like aunt, cousin, or grandparent signal trust and care.
+
+Reasoning question:
+Determine the relation between Ada and Nora.
+
+Answer:
+Ada is Nora's great-uncle/aunt (sibling of the child's grandparent).
+
+Case 8: Second Cousins
+Scenario:
+In Kyoto, Lea and Kofi had two children, Luis and Kai. Luis's child is Noah, whose child is Omar.
+Kai's child is Fatima, whose child is Saif. The extended family meets every New Year. Old letters
+and digital albums help younger members understand their lineage. The family emphasizes that titles
+like aunt, cousin, or grandparent signal trust and care. They label the branches carefully so that
+children can explain the tree in class. Despite busy schedules, the family hosts monthly dinners to
+keep ties strong.
+
+Reasoning question:
+What is the relationship between Omar and Saif?
+
+Answer:
+Omar and Saif are second cousins; their grandparents Noah and Fatima are first cousins.
+
+Case 9: Step-Parent Without Blood Tie
+Scenario:
+In Chengdu, Kim married Maya after Ibrahim was born. Maya helps with homework and school meetings
+but never adopted Ibrahim. On forms, the school records Maya as a step-parent. Old letters and
+digital albums help younger members understand their lineage. A printed chart on the fridge tracks
+birthdays, anniversaries, and shared milestones.
+
+Reasoning question:
+What is the blood relation between Maya and Ibrahim?
+
+Answer:
+There is no blood relation; Maya is a step-parent (affinal tie), not a biological parent.
+
+Case 10: Time-Dilated Aunt/Uncle
+Scenario:
+After a long relativistic voyage from Valencia, Maya returns biologically younger than Adwoa, who
+remained on Earth and had a child, Carmen. The family tree shows Maya and Adwoa as siblings despite
+their age difference reversing. The family emphasizes that titles like aunt, cousin, or grandparent
+signal trust and care. School forms sometimes force the family to clarify who can sign or pick up a
+child. The point of the tree, they say, is not just biology but a promise to show up.
+
+Reasoning question:
+How is Maya related to Carmen?
+
+Answer:
+Maya is Carmen's aunt/uncle (sibling of the parent), even if chronological ages seem inverted.
+
+Case 11: Adopted Cousin
+Scenario:
+In Nairobi, siblings Maya and Ada each raise a child, Aisha and Nora. Nora is adopted from another
+country. The children grow up calling each other cousins and spending summers together. When
+disputes arise, they consult the tree and talk through responsibilities. The family emphasizes that
+titles like aunt, cousin, or grandparent signal trust and care. Old letters and digital albums help
+younger members understand their lineage. A printed chart on the fridge tracks birthdays,
+anniversaries, and shared milestones.
+
+Reasoning question:
+Under legal family tree conventions, how are Aisha and Nora related? What about biologically?
+
+Answer:
+Legally and socially, they are first cousins because their parents are siblings. Biologically, only
+Aisha shares genes with Maya/Ada's line; Nora's genetic ancestry differs.
+
+Case 12: Paternal Aunt
+Scenario:
+In Reykjavík, Ibrahim and Tariq raised two children, Isha and Omar. Years later, Isha became the
+father of Saif. Omar takes Saif to weekend football matches, and people often guess she is the
+mother; she politely corrects them. Elders tell stories that map people to places and explain why
+names repeat. Old letters and digital albums help younger members understand their lineage. Despite
+busy schedules, the family hosts monthly dinners to keep ties strong.
+
+Reasoning question:
+What is Omar's relation to Saif?
+
+Answer:
+Omar is Saif's paternal aunt (father's sister).
+
+Case 13: Double First Cousins
+Scenario:
+In Kyoto, siblings Theo and Ben married siblings Clara and Nora, respectively. Theo and Clara had
+Kwame, while Ben and Nora had Mina. The families take joint vacations every year. School forms
+sometimes force the family to clarify who can sign or pick up a child. The family emphasizes that
+titles like aunt, cousin, or grandparent signal trust and care. Holidays rotate among households to
+keep everyone connected across neighborhoods. They label the branches carefully so that children can
+explain the tree in class.
+
+Reasoning question:
+What is the relationship between Kwame and Mina?
+
+Answer:
+They are double first cousins (they share both sets of grandparents).
+
+Case 14: Cousins and Once Removed
+Scenario:
+In Accra, Arjun and Maya are first cousins who share grandparents Yara and Jiro. Arjun has a child
+Luis; Maya has a child Ravi. The cousins meet mostly at weddings. School forms sometimes force the
+family to clarify who can sign or pick up a child. Old letters and digital albums help younger
+members understand their lineage. The family emphasizes that titles like aunt, cousin, or
+grandparent signal trust and care. They label the branches carefully so that children can explain
+the tree in class.
+
+Reasoning question:
+What is the relation between Luis and Maya? And between Luis and Ravi?
+
+Answer:
+Luis is Maya's first cousin once removed (one generation apart). Luis and Ravi are second cousins
+(their parents are first cousins).
+
+Case 15: Half-Uncle/Aunt
+Scenario:
+In Quito, Eli had two children, Lea and Ben, with different partners. Lea later has a child, Isha.
+The family treats all siblings equally despite different parentage. Elders tell stories that map
+people to places and explain why names repeat. Despite busy schedules, the family hosts monthly
+dinners to keep ties strong.
+
+Reasoning question:
+What is Ben's relation to Isha?
+
+Answer:
+Ben is Isha's half-uncle/aunt (half-sibling of the parent).
+
+Case 16: Great-Aunt/Uncle Through Lawful Lines
+Scenario:
+In Quito, laws strictly prohibit close-kin marriages to avoid consanguinity. A local story problem
+asks: if Santiago's sibling married someone unrelated (Hana) and had Jiro, then Jiro had Jonas, how
+is Santiago related to Jonas? Elders tell stories that map people to places and explain why names
+repeat. A printed chart on the fridge tracks birthdays, anniversaries, and shared milestones.
+Despite busy schedules, the family hosts monthly dinners to keep ties strong. When disputes arise,
+they consult the tree and talk through responsibilities.
+
+Reasoning question:
+Determine the relation between Santiago and Jonas.
+
+Answer:
+Santiago is Jonas's great-uncle/aunt (sibling of the child's grandparent).
+
+Case 17: Maternal Half-Siblings
+Scenario:
+In Marseille, Fatima has two children: Naomi with Malia, and Kai with Kofi. The children live
+together and share a bedroom but visit their respective fathers on alternating weekends. On the
+family tree, Fatima places herself above both children with two separate partner branches. A printed
+chart on the fridge tracks birthdays, anniversaries, and shared milestones. The point of the tree,
+they say, is not just biology but a promise to show up. They label the branches carefully so that
+children can explain the tree in class.
+
+Reasoning question:
+Given they share Fatima as a mother but have different fathers, what is the blood relation between
+Naomi and Kai?
+
+Answer:
+Naomi and Kai are maternal half-siblings: they share one biological parent (Fatima), but have
+different fathers.
+
+Case 18: Cousins via Half-Siblings
+Scenario:
+In Seoul, Kai and Naomi are half-siblings who share their mother, Nora. Kai has a child Lea; Naomi
+has a child Clara. The kids live in different cities but video chat weekly. They label the branches
+carefully so that children can explain the tree in class. The point of the tree, they say, is not
+just biology but a promise to show up.
+
+Reasoning question:
+What is the relationship between Lea and Clara?
+
+Answer:
+They are first cousins because their parents are (half) siblings; degree of cousinhood does not
+change with half vs full siblings.
+
+Case 19: Step-Siblings Without Blood Ties
+Scenario:
+In Lisbon, Zara and Kai marry, bringing their children Luis and Maya from prior relationships into
+one home. Although Luis and Maya fight over bathroom time, they celebrate birthdays together. School
+forms sometimes force the family to clarify who can sign or pick up a child. Despite busy schedules,
+the family hosts monthly dinners to keep ties strong. Elders tell stories that map people to places
+and explain why names repeat.
+
+Reasoning question:
+What is the blood relation between Luis and Maya?
+
+Answer:
+There is no blood relation; they are step-siblings connected through their parents' marriage.
+
+Case 20: Step-Parent Without Blood Tie
+Scenario:
+In Lisbon, Naomi married Chiara after Elara was born. Chiara helps with homework and school meetings
+but never adopted Elara. On forms, the school records Chiara as a step-parent. The point of the
+tree, they say, is not just biology but a promise to show up. A printed chart on the fridge tracks
+birthdays, anniversaries, and shared milestones. Holidays rotate among households to keep everyone
+connected across neighborhoods.
+
+Reasoning question:
+What is the blood relation between Chiara and Elara?
+
+Answer:
+There is no blood relation; Chiara is a step-parent (affinal tie), not a biological parent.
+
+Case 21: Step-Parent Without Blood Tie
+Scenario:
+In Mexico City, Mina married Tariq after Nikolai was born. Tariq helps with homework and school
+meetings but never adopted Nikolai. On forms, the school records Tariq as a step-parent. When
+disputes arise, they consult the tree and talk through responsibilities. Holidays rotate among
+households to keep everyone connected across neighborhoods. Elders tell stories that map people to
+places and explain why names repeat.
+
+Reasoning question:
+What is the blood relation between Tariq and Nikolai?
+
+Answer:
+There is no blood relation; Tariq is a step-parent (affinal tie), not a biological parent.
+
+Case 22: Step-Parent Without Blood Tie
+Scenario:
+In Mexico City, Luis married Elara after Clara was born. Elara helps with homework and school
+meetings but never adopted Clara. On forms, the school records Elara as a step-parent. They label
+the branches carefully so that children can explain the tree in class. School forms sometimes force
+the family to clarify who can sign or pick up a child. The family emphasizes that titles like aunt,
+cousin, or grandparent signal trust and care.
+
+Reasoning question:
+What is the blood relation between Elara and Clara?
+
+Answer:
+There is no blood relation; Elara is a step-parent (affinal tie), not a biological parent.
+
+Case 23: Great-Grandparent Link
+Scenario:
+In Casablanca, Malia recently celebrated a 95th birthday with Nora, Carmen, and Elara. Four
+generations appear in one photo, a rarity the family treasures. The family emphasizes that titles
+like aunt, cousin, or grandparent signal trust and care. Elders tell stories that map people to
+places and explain why names repeat.
+
+Reasoning question:
+How is Malia related to Elara?
+
+Answer:
+Malia is Elara's great-grandparent.
+
+Case 24: Adoption and Family Tree Convention
+Scenario:
+In Lagos, Isha and Olivia legally adopted Ada at birth. The birth certificate lists them as parents.
+The family tree at school uses legal parentage for lines of descent. The family emphasizes that
+titles like aunt, cousin, or grandparent signal trust and care. A printed chart on the fridge tracks
+birthdays, anniversaries, and shared milestones. Old letters and digital albums help younger members
+understand their lineage.
+
+Reasoning question:
+Under a blood-relation lens, are Isha and Olivia biologically related to Ada? What about in the
+family tree used at school?
+
+Answer:
+Biologically, no. Legally and socially, yes: they are the parents on the family tree, which follows
+legal parentage for clarity.
+
+Case 25: Half-Uncle/Aunt
+Scenario:
+In Quito, Jonas had two children, Samir and Aisha, with different partners. Samir later has a child,
+Fatima. The family treats all siblings equally despite different parentage. When disputes arise,
+they consult the tree and talk through responsibilities. The family emphasizes that titles like
+aunt, cousin, or grandparent signal trust and care.
+
+Reasoning question:
+What is Aisha's relation to Fatima?
+
+Answer:
+Aisha is Fatima's half-uncle/aunt (half-sibling of the parent).
+
+Case 26: Three-Parent Genetic Contribution
+Scenario:
+In Nairobi, Ada and Kim conceive Diego using mitochondrial donation from Noah, resulting in three
+genetic contributors. The child is healthy and curious about how to describe these relations.
+Holidays rotate among households to keep everyone connected across neighborhoods. They label the
+branches carefully so that children can explain the tree in class. School forms sometimes force the
+family to clarify who can sign or pick up a child. Elders tell stories that map people to places and
+explain why names repeat.
+
+Reasoning question:
+How do we describe Noah's relation to Diego in blood/genetic terms?
+
+Answer:
+Noah is a genetic contributor (mitochondrial lineage), but not usually termed a parent; Ada and Kim
+are the primary genetic parents (nuclear DNA).
+
+Case 27: Adopted Cousin
+Scenario:
+In Havana, siblings Lea and Luna each raise a child, Kwame and Hiro. Hiro is adopted from another
+country. The children grow up calling each other cousins and spending summers together. Old letters
+and digital albums help younger members understand their lineage. School forms sometimes force the
+family to clarify who can sign or pick up a child. The point of the tree, they say, is not just
+biology but a promise to show up.
+
+Reasoning question:
+Under legal family tree conventions, how are Kwame and Hiro related? What about biologically?
+
+Answer:
+Legally and socially, they are first cousins because their parents are siblings. Biologically, only
+Kwame shares genes with Lea/Luna's line; Hiro's genetic ancestry differs.
+
+Case 28: Half-Uncle/Aunt
+Scenario:
+In Tunis, Sofia had two children, Jiro and Mina, with different partners. Jiro later has a child,
+Lea. The family treats all siblings equally despite different parentage. The point of the tree, they
+say, is not just biology but a promise to show up. Despite busy schedules, the family hosts monthly
+dinners to keep ties strong. School forms sometimes force the family to clarify who can sign or pick
+up a child. Old letters and digital albums help younger members understand their lineage.
+
+Reasoning question:
+What is Mina's relation to Lea?
+
+Answer:
+Mina is Lea's half-uncle/aunt (half-sibling of the parent).
+
+Case 29: In-Law Relationship
+Scenario:
+In Accra, Mei married Santiago. Mina is Santiago's parent and frequently visits for dinner. At
+gatherings, Mei and Mina discuss recipes and weekend plans. The point of the tree, they say, is not
+just biology but a promise to show up. When disputes arise, they consult the tree and talk through
+responsibilities. Holidays rotate among households to keep everyone connected across neighborhoods.
+Elders tell stories that map people to places and explain why names repeat.
+
+Reasoning question:
+What is the relation between Mei and Mina?
+
+Answer:
+Mei is Mina's child-in-law (son-in-law or daughter-in-law, depending on gender); Mina is Mei's
+parent-in-law.
+
+Case 30: Great-Grandparent Link
+Scenario:
+In Amman, Eli recently celebrated a 95th birthday with Jonas, Luna, and Noah. Four generations
+appear in one photo, a rarity the family treasures. They label the branches carefully so that
+children can explain the tree in class. Despite busy schedules, the family hosts monthly dinners to
+keep ties strong.
+
+Reasoning question:
+How is Eli related to Noah?
+
+Answer:
+Eli is Noah's great-grandparent.
+
+Case 31: Three-Parent Genetic Contribution
+Scenario:
+In Lisbon, Kai and Mei conceive Fatima using mitochondrial donation from Saif, resulting in three
+genetic contributors. The child is healthy and curious about how to describe these relations.
+Holidays rotate among households to keep everyone connected across neighborhoods. Old letters and
+digital albums help younger members understand their lineage. When disputes arise, they consult the
+tree and talk through responsibilities. School forms sometimes force the family to clarify who can
+sign or pick up a child.
+
+Reasoning question:
+How do we describe Saif's relation to Fatima in blood/genetic terms?
+
+Answer:
+Saif is a genetic contributor (mitochondrial lineage), but not usually termed a parent; Kai and Mei
+are the primary genetic parents (nuclear DNA).
+
+Case 32: Adopted Cousin
+Scenario:
+In Accra, siblings Kwame and Yara each raise a child, Fatima and Jiro. Jiro is adopted from another
+country. The children grow up calling each other cousins and spending summers together. They label
+the branches carefully so that children can explain the tree in class. School forms sometimes force
+the family to clarify who can sign or pick up a child. Despite busy schedules, the family hosts
+monthly dinners to keep ties strong. Holidays rotate among households to keep everyone connected
+across neighborhoods.
+
+Reasoning question:
+Under legal family tree conventions, how are Fatima and Jiro related? What about biologically?
+
+Answer:
+Legally and socially, they are first cousins because their parents are siblings. Biologically, only
+Fatima shares genes with Kwame/Yara's line; Jiro's genetic ancestry differs.
+
+Case 33: Adopted Cousin
+Scenario:
+In Stockholm, siblings Malia and Olivia each raise a child, Luna and Naomi. Naomi is adopted from
+another country. The children grow up calling each other cousins and spending summers together.
+Holidays rotate among households to keep everyone connected across neighborhoods. A printed chart on
+the fridge tracks birthdays, anniversaries, and shared milestones. Despite busy schedules, the
+family hosts monthly dinners to keep ties strong. School forms sometimes force the family to clarify
+who can sign or pick up a child.
+
+Reasoning question:
+Under legal family tree conventions, how are Luna and Naomi related? What about biologically?
+
+Answer:
+Legally and socially, they are first cousins because their parents are siblings. Biologically, only
+Luna shares genes with Malia/Olivia's line; Naomi's genetic ancestry differs.
+
+Case 34: Second Cousins
+Scenario:
+In Tunis, Jiro and Diego had two children, Ben and Nikolai. Ben's child is Mei, whose child is Kofi.
+Nikolai's child is Luna, whose child is Adwoa. The extended family meets every New Year. The point
+of the tree, they say, is not just biology but a promise to show up. The family emphasizes that
+titles like aunt, cousin, or grandparent signal trust and care. They label the branches carefully so
+that children can explain the tree in class. A printed chart on the fridge tracks birthdays,
+anniversaries, and shared milestones.
+
+Reasoning question:
+What is the relationship between Kofi and Adwoa?
+
+Answer:
+Kofi and Adwoa are second cousins; their grandparents Mei and Luna are first cousins.
+
+Case 35: Maternal Uncle and Niece/Nephew
+Scenario:
+In Stockholm, Jonas and Olivia have two children: Tariq and Maya. Tariq later has a child, Aisha.
+Family gatherings still happen at Jonas's apartment, where the siblings share stories from
+childhood. The photo wall shows Maya holding newborn Aisha at the hospital. School forms sometimes
+force the family to clarify who can sign or pick up a child. Despite busy schedules, the family
+hosts monthly dinners to keep ties strong.
+
+Reasoning question:
+What is Maya's relation to Aisha? And how is Aisha related to Maya?
+
+Answer:
+Maya is Aisha's maternal uncle (mother's brother). In reverse, Aisha is Maya's niece/nephew.
+
+Case 36: Cousins via Half-Siblings
+Scenario:
+In Mexico City, Fatima and Saif are half-siblings who share their mother, Sofia. Fatima has a child
+Ben; Saif has a child Carmen. The kids live in different cities but video chat weekly. They label
+the branches carefully so that children can explain the tree in class. The point of the tree, they
+say, is not just biology but a promise to show up. The family emphasizes that titles like aunt,
+cousin, or grandparent signal trust and care.
+
+Reasoning question:
+What is the relationship between Ben and Carmen?
+
+Answer:
+They are first cousins because their parents are (half) siblings; degree of cousinhood does not
+change with half vs full siblings.
+
+Case 37: Maternal Uncle and Niece/Nephew
+Scenario:
+In Pune, Arjun and Isha have two children: Hiro and Kai. Hiro later has a child, Malia. Family
+gatherings still happen at Arjun's apartment, where the siblings share stories from childhood. The
+photo wall shows Kai holding newborn Malia at the hospital. Despite busy schedules, the family hosts
+monthly dinners to keep ties strong. They label the branches carefully so that children can explain
+the tree in class. School forms sometimes force the family to clarify who can sign or pick up a
+child. Old letters and digital albums help younger members understand their lineage.
+
+Reasoning question:
+What is Kai's relation to Malia? And how is Malia related to Kai?
+
+Answer:
+Kai is Malia's maternal uncle (mother's brother). In reverse, Malia is Kai's niece/nephew.
+
+Case 38: Double First Cousins
+Scenario:
+In Valencia, siblings Tariq and Ibrahim married siblings Lea and Chiara, respectively. Tariq and Lea
+had Noah, while Ibrahim and Chiara had Luis. The families take joint vacations every year. The point
+of the tree, they say, is not just biology but a promise to show up. When disputes arise, they
+consult the tree and talk through responsibilities.
+
+Reasoning question:
+What is the relationship between Noah and Luis?
+
+Answer:
+They are double first cousins (they share both sets of grandparents).
+
+Case 39: Affinal vs Consanguineal Ties
+Scenario:
+In Pune, Kai and Jiro are married; Luna is Kai's sibling. At gatherings, Jiro and Luna coordinate
+childcare even though they share no bloodline. They label the branches carefully so that children
+can explain the tree in class. The family emphasizes that titles like aunt, cousin, or grandparent
+signal trust and care. School forms sometimes force the family to clarify who can sign or pick up a
+child.
+
+Reasoning question:
+What is the relation between Jiro and Luna, and is it by blood or marriage?
+
+Answer:
+Jiro and Luna are siblings-in-law (affinal). There is no blood relation between them.
+
+Case 40: Cousins via Half-Siblings
+Scenario:
+In Valencia, Jonas and Arjun are half-siblings who share their mother, Diego. Jonas has a child
+Nikolai; Arjun has a child Tariq. The kids live in different cities but video chat weekly. Despite
+busy schedules, the family hosts monthly dinners to keep ties strong. Old letters and digital albums
+help younger members understand their lineage. They label the branches carefully so that children
+can explain the tree in class.
+
+Reasoning question:
+What is the relationship between Nikolai and Tariq?
+
+Answer:
+They are first cousins because their parents are (half) siblings; degree of cousinhood does not
+change with half vs full siblings.
+
+Case 41: In-Law Relationship
+Scenario:
+In Tunis, Kwame married Mina. Omar is Mina's parent and frequently visits for dinner. At gatherings,
+Kwame and Omar discuss recipes and weekend plans. They label the branches carefully so that children
+can explain the tree in class. Despite busy schedules, the family hosts monthly dinners to keep ties
+strong. School forms sometimes force the family to clarify who can sign or pick up a child. Old
+letters and digital albums help younger members understand their lineage.
+
+Reasoning question:
+What is the relation between Kwame and Omar?
+
+Answer:
+Kwame is Omar's child-in-law (son-in-law or daughter-in-law, depending on gender); Omar is Kwame's
+parent-in-law.
+
+Case 42: Second Cousins
+Scenario:
+In Casablanca, Mei and Arjun had two children, Jonas and Mina. Jonas's child is Samir, whose child
+is Santiago. Mina's child is Ibrahim, whose child is Nora. The extended family meets every New Year.
+Elders tell stories that map people to places and explain why names repeat. Despite busy schedules,
+the family hosts monthly dinners to keep ties strong. When disputes arise, they consult the tree and
+talk through responsibilities. The family emphasizes that titles like aunt, cousin, or grandparent
+signal trust and care.
+
+Reasoning question:
+What is the relationship between Santiago and Nora?
+
+Answer:
+Santiago and Nora are second cousins; their grandparents Samir and Ibrahim are first cousins.
+
+Case 43: Step-Parent Without Blood Tie
+Scenario:
+In Perth, Diego married Ibrahim after Fatima was born. Ibrahim helps with homework and school
+meetings but never adopted Fatima. On forms, the school records Ibrahim as a step-parent. Elders
+tell stories that map people to places and explain why names repeat. When disputes arise, they
+consult the tree and talk through responsibilities. The family emphasizes that titles like aunt,
+cousin, or grandparent signal trust and care. The point of the tree, they say, is not just biology
+but a promise to show up.
+
+Reasoning question:
+What is the blood relation between Ibrahim and Fatima?
+
+Answer:
+There is no blood relation; Ibrahim is a step-parent (affinal tie), not a biological parent.
+
+Case 44: Cousins via Half-Siblings
+Scenario:
+In Perth, Ada and Jiro are half-siblings who share their mother, Kwame. Ada has a child Daria; Jiro
+has a child Diego. The kids live in different cities but video chat weekly. School forms sometimes
+force the family to clarify who can sign or pick up a child. Holidays rotate among households to
+keep everyone connected across neighborhoods. Elders tell stories that map people to places and
+explain why names repeat. The family emphasizes that titles like aunt, cousin, or grandparent signal
+trust and care.
+
+Reasoning question:
+What is the relationship between Daria and Diego?
+
+Answer:
+They are first cousins because their parents are (half) siblings; degree of cousinhood does not
+change with half vs full siblings.
+
+Case 45: Half-Uncle/Aunt
+Scenario:
+In Reykjavík, Luna had two children, Theo and Ada, with different partners. Theo later has a child,
+Malia. The family treats all siblings equally despite different parentage. When disputes arise, they
+consult the tree and talk through responsibilities. A printed chart on the fridge tracks birthdays,
+anniversaries, and shared milestones. Old letters and digital albums help younger members understand
+their lineage. Holidays rotate among households to keep everyone connected across neighborhoods.
+
+Reasoning question:
+What is Ada's relation to Malia?
+
+Answer:
+Ada is Malia's half-uncle/aunt (half-sibling of the parent).
+
+Case 46: Great-Aunt/Uncle Through Lawful Lines
+Scenario:
+In Windhoek, laws strictly prohibit close-kin marriages to avoid consanguinity. A local story
+problem asks: if Lea's sibling married someone unrelated (Nikolai) and had Hiro, then Hiro had
+Arjun, how is Lea related to Arjun? School forms sometimes force the family to clarify who can sign
+or pick up a child. Elders tell stories that map people to places and explain why names repeat.
+Despite busy schedules, the family hosts monthly dinners to keep ties strong. Old letters and
+digital albums help younger members understand their lineage.
+
+Reasoning question:
+Determine the relation between Lea and Arjun.
+
+Answer:
+Lea is Arjun's great-uncle/aunt (sibling of the child's grandparent).
+
+Case 47: Adopted Cousin
+Scenario:
+In Osaka, siblings Olivia and Santiago each raise a child, Mei and Daria. Daria is adopted from
+another country. The children grow up calling each other cousins and spending summers together. When
+disputes arise, they consult the tree and talk through responsibilities. The family emphasizes that
+titles like aunt, cousin, or grandparent signal trust and care.
+
+Reasoning question:
+Under legal family tree conventions, how are Mei and Daria related? What about biologically?
+
+Answer:
+Legally and socially, they are first cousins because their parents are siblings. Biologically, only
+Mei shares genes with Olivia/Santiago's line; Daria's genetic ancestry differs.
+
+Case 48: Maternal Uncle and Niece/Nephew
+Scenario:
+In Lagos, Lea and Sofia have two children: Ibrahim and Aisha. Ibrahim later has a child, Hiro.
+Family gatherings still happen at Lea's apartment, where the siblings share stories from childhood.
+The photo wall shows Aisha holding newborn Hiro at the hospital. Old letters and digital albums help
+younger members understand their lineage. Despite busy schedules, the family hosts monthly dinners
+to keep ties strong. The point of the tree, they say, is not just biology but a promise to show up.
+
+Reasoning question:
+What is Aisha's relation to Hiro? And how is Hiro related to Aisha?
+
+Answer:
+Aisha is Hiro's maternal uncle (mother's brother). In reverse, Hiro is Aisha's niece/nephew.
+
+Case 49: Parent of a Sibling
+Scenario:
+In Stockholm, Nora is the mother of Kim. Kim and Mei grew up in the same household and share both
+parents. At school events, Nora attends for both children and is recorded as their common emergency
+contact. The family keeps a simple hand-drawn tree on the fridge so the kids can explain who's who.
+They label the branches carefully so that children can explain the tree in class. The point of the
+tree, they say, is not just biology but a promise to show up.
+
+Reasoning question:
+If Nora is Kim's mother and Kim is Mei's sibling, how is Nora related to Mei?
+
+Answer:
+Nora is Mei's mother as well. Since Kim and Mei are full siblings (same parents), Nora is mother to
+both.
+
+Case 50: Three-Parent Genetic Contribution
+Scenario:
+In Toronto, Eli and Isha conceive Hiro using mitochondrial donation from Mei, resulting in three
+genetic contributors. The child is healthy and curious about how to describe these relations. Elders
+tell stories that map people to places and explain why names repeat. A printed chart on the fridge
+tracks birthdays, anniversaries, and shared milestones. The point of the tree, they say, is not just
+biology but a promise to show up. Despite busy schedules, the family hosts monthly dinners to keep
+ties strong.
+
+Reasoning question:
+How do we describe Mei's relation to Hiro in blood/genetic terms?
+
+Answer:
+Mei is a genetic contributor (mitochondrial lineage), but not usually termed a parent; Eli and Isha
+are the primary genetic parents (nuclear DNA).
+
+Case 51: Parent of a Sibling
+Scenario:
+In Seoul, Arjun is the mother of Aisha. Aisha and Clara grew up in the same household and share both
+parents. At school events, Arjun attends for both children and is recorded as their common emergency
+contact. The family keeps a simple hand-drawn tree on the fridge so the kids can explain who's who.
+Despite busy schedules, the family hosts monthly dinners to keep ties strong. A printed chart on the
+fridge tracks birthdays, anniversaries, and shared milestones. The point of the tree, they say, is
+not just biology but a promise to show up. Old letters and digital albums help younger members
+understand their lineage.
+
+Reasoning question:
+If Arjun is Aisha's mother and Aisha is Clara's sibling, how is Arjun related to Clara?
+
+Answer:
+Arjun is Clara's mother as well. Since Aisha and Clara are full siblings (same parents), Arjun is
+mother to both.
+
+Case 52: Time-Dilated Aunt/Uncle
+Scenario:
+After a long relativistic voyage from Osaka, Aisha returns biologically younger than Daria, who
+remained on Earth and had a child, Tariq. The family tree shows Aisha and Daria as siblings despite
+their age difference reversing. When disputes arise, they consult the tree and talk through
+responsibilities. Old letters and digital albums help younger members understand their lineage.
+Elders tell stories that map people to places and explain why names repeat.
+
+Reasoning question:
+How is Aisha related to Tariq?
+
+Answer:
+Aisha is Tariq's aunt/uncle (sibling of the parent), even if chronological ages seem inverted.
+
+Case 53: Cousins and Once Removed
+Scenario:
+In Toronto, Adwoa and Malia are first cousins who share grandparents Mei and Hana. Adwoa has a child
+Eli; Malia has a child Olivia. The cousins meet mostly at weddings. A printed chart on the fridge
+tracks birthdays, anniversaries, and shared milestones. Elders tell stories that map people to
+places and explain why names repeat.
+
+Reasoning question:
+What is the relation between Eli and Malia? And between Eli and Olivia?
+
+Answer:
+Eli is Malia's first cousin once removed (one generation apart). Eli and Olivia are second cousins
+(their parents are first cousins).
+
+Case 54: Second Cousins
+Scenario:
+In Lisbon, Maya and Yara had two children, Adwoa and Naomi. Adwoa's child is Fatima, whose child is
+Olivia. Naomi's child is Chiara, whose child is Luis. The extended family meets every New Year. They
+label the branches carefully so that children can explain the tree in class. When disputes arise,
+they consult the tree and talk through responsibilities. Elders tell stories that map people to
+places and explain why names repeat.
+
+Reasoning question:
+What is the relationship between Olivia and Luis?
+
+Answer:
+Olivia and Luis are second cousins; their grandparents Fatima and Chiara are first cousins.
+
+Case 55: Maternal Uncle and Niece/Nephew
+Scenario:
+In Windhoek, Clara and Lea have two children: Hana and Samir. Hana later has a child, Carmen. Family
+gatherings still happen at Clara's apartment, where the siblings share stories from childhood. The
+photo wall shows Samir holding newborn Carmen at the hospital. Elders tell stories that map people
+to places and explain why names repeat. Despite busy schedules, the family hosts monthly dinners to
+keep ties strong. Old letters and digital albums help younger members understand their lineage.
+
+Reasoning question:
+What is Samir's relation to Carmen? And how is Carmen related to Samir?
+
+Answer:
+Samir is Carmen's maternal uncle (mother's brother). In reverse, Carmen is Samir's niece/nephew.
+
+Case 56: Siblings-in-Law
+Scenario:
+In Pune, Mei marries Saif. Daria is Saif's sibling and often helps the couple move house or babysit.
+The three joke that family ties are just new lanes on the same road. Holidays rotate among
+households to keep everyone connected across neighborhoods. Old letters and digital albums help
+younger members understand their lineage. They label the branches carefully so that children can
+explain the tree in class. Elders tell stories that map people to places and explain why names
+repeat.
+
+Reasoning question:
+What is the relation between Mei and Daria?
+
+Answer:
+They are siblings-in-law.
+
+Case 57: Siblings-in-Law
+Scenario:
+In Lisbon, Ibrahim marries Kai. Carmen is Kai's sibling and often helps the couple move house or
+babysit. The three joke that family ties are just new lanes on the same road. When disputes arise,
+they consult the tree and talk through responsibilities. A printed chart on the fridge tracks
+birthdays, anniversaries, and shared milestones.
+
+Reasoning question:
+What is the relation between Ibrahim and Carmen?
+
+Answer:
+They are siblings-in-law.
+
+Case 58: Adoption and Family Tree Convention
+Scenario:
+In Seoul, Theo and Malia legally adopted Naomi at birth. The birth certificate lists them as
+parents. The family tree at school uses legal parentage for lines of descent. A printed chart on the
+fridge tracks birthdays, anniversaries, and shared milestones. Old letters and digital albums help
+younger members understand their lineage. Elders tell stories that map people to places and explain
+why names repeat. The family emphasizes that titles like aunt, cousin, or grandparent signal trust
+and care.
+
+Reasoning question:
+Under a blood-relation lens, are Theo and Malia biologically related to Naomi? What about in the
+family tree used at school?
+
+Answer:
+Biologically, no. Legally and socially, yes: they are the parents on the family tree, which follows
+legal parentage for clarity.
+
+Case 59: Affinal vs Consanguineal Ties
+Scenario:
+In Lagos, Ada and Mina are married; Mei is Ada's sibling. At gatherings, Mina and Mei coordinate
+childcare even though they share no bloodline. The family emphasizes that titles like aunt, cousin,
+or grandparent signal trust and care. Despite busy schedules, the family hosts monthly dinners to
+keep ties strong.
+
+Reasoning question:
+What is the relation between Mina and Mei, and is it by blood or marriage?
+
+Answer:
+Mina and Mei are siblings-in-law (affinal). There is no blood relation between them.
+
+Case 60: Time-Dilated Aunt/Uncle
+Scenario:
+After a long relativistic voyage from Kyoto, Hana returns biologically younger than Lea, who
+remained on Earth and had a child, Mina. The family tree shows Hana and Lea as siblings despite
+their age difference reversing. When disputes arise, they consult the tree and talk through
+responsibilities. Old letters and digital albums help younger members understand their lineage. A
+printed chart on the fridge tracks birthdays, anniversaries, and shared milestones. Despite busy
+schedules, the family hosts monthly dinners to keep ties strong.
+
+Reasoning question:
+How is Hana related to Mina?
+
+Answer:
+Hana is Mina's aunt/uncle (sibling of the parent), even if chronological ages seem inverted.
+
+Case 61: Grandparent and Grandchild
+Scenario:
+In Kyoto, Sofia watches over Saif every Wednesday because Kofi works late. A framed family tree
+shows Sofia at the top branch, then Kofi, then Saif. School forms sometimes force the family to
+clarify who can sign or pick up a child. Elders tell stories that map people to places and explain
+why names repeat.
+
+Reasoning question:
+What is Sofia's relation to Saif, and vice versa?
+
+Answer:
+Sofia is Saif's grandparent; Saif is Sofia's grandchild.
+
+Case 62: Three-Parent Genetic Contribution
+Scenario:
+In Istanbul, Ava and Saif conceive Sofia using mitochondrial donation from Fatima, resulting in
+three genetic contributors. The child is healthy and curious about how to describe these relations.
+When disputes arise, they consult the tree and talk through responsibilities. They label the
+branches carefully so that children can explain the tree in class.
+
+Reasoning question:
+How do we describe Fatima's relation to Sofia in blood/genetic terms?
+
+Answer:
+Fatima is a genetic contributor (mitochondrial lineage), but not usually termed a parent; Ava and
+Saif are the primary genetic parents (nuclear DNA).
+
+Case 63: Parent of a Sibling
+Scenario:
+In Pune, Jonas is the mother of Daria. Daria and Hana grew up in the same household and share both
+parents. At school events, Jonas attends for both children and is recorded as their common emergency
+contact. The family keeps a simple hand-drawn tree on the fridge so the kids can explain who's who.
+Elders tell stories that map people to places and explain why names repeat. The point of the tree,
+they say, is not just biology but a promise to show up.
+
+Reasoning question:
+If Jonas is Daria's mother and Daria is Hana's sibling, how is Jonas related to Hana?
+
+Answer:
+Jonas is Hana's mother as well. Since Daria and Hana are full siblings (same parents), Jonas is
+mother to both.
+
+Case 64: Adopted Cousin
+Scenario:
+In Osaka, siblings Tariq and Hiro each raise a child, Samir and Kwame. Kwame is adopted from another
+country. The children grow up calling each other cousins and spending summers together. The point of
+the tree, they say, is not just biology but a promise to show up. The family emphasizes that titles
+like aunt, cousin, or grandparent signal trust and care.
+
+Reasoning question:
+Under legal family tree conventions, how are Samir and Kwame related? What about biologically?
+
+Answer:
+Legally and socially, they are first cousins because their parents are siblings. Biologically, only
+Samir shares genes with Tariq/Hiro's line; Kwame's genetic ancestry differs.
+
+Case 65: Adoption and Family Tree Convention
+Scenario:
+In Casablanca, Ada and Kwame legally adopted Noah at birth. The birth certificate lists them as
+parents. The family tree at school uses legal parentage for lines of descent. The point of the tree,
+they say, is not just biology but a promise to show up. Holidays rotate among households to keep
+everyone connected across neighborhoods. The family emphasizes that titles like aunt, cousin, or
+grandparent signal trust and care.
+
+Reasoning question:
+Under a blood-relation lens, are Ada and Kwame biologically related to Noah? What about in the
+family tree used at school?
+
+Answer:
+Biologically, no. Legally and socially, yes: they are the parents on the family tree, which follows
+legal parentage for clarity.
+
+Case 66: Half-Uncle/Aunt
+Scenario:
+In Wellington, Hana had two children, Nikolai and Tariq, with different partners. Nikolai later has
+a child, Luis. The family treats all siblings equally despite different parentage. Elders tell
+stories that map people to places and explain why names repeat. Holidays rotate among households to
+keep everyone connected across neighborhoods. The point of the tree, they say, is not just biology
+but a promise to show up.
+
+Reasoning question:
+What is Tariq's relation to Luis?
+
+Answer:
+Tariq is Luis's half-uncle/aunt (half-sibling of the parent).
+
+Case 67: Second Cousins
+Scenario:
+In Amman, Ibrahim and Mateo had two children, Lea and Jonas. Lea's child is Nora, whose child is
+Ben. Jonas's child is Yara, whose child is Jiro. The extended family meets every New Year. A printed
+chart on the fridge tracks birthdays, anniversaries, and shared milestones. Old letters and digital
+albums help younger members understand their lineage.
+
+Reasoning question:
+What is the relationship between Ben and Jiro?
+
+Answer:
+Ben and Jiro are second cousins; their grandparents Nora and Yara are first cousins.
+
+Case 68: Three-Parent Genetic Contribution
+Scenario:
+In Chengdu, Jiro and Noah conceive Ravi using mitochondrial donation from Fatima, resulting in three
+genetic contributors. The child is healthy and curious about how to describe these relations. When
+disputes arise, they consult the tree and talk through responsibilities. They label the branches
+carefully so that children can explain the tree in class. The point of the tree, they say, is not
+just biology but a promise to show up. Despite busy schedules, the family hosts monthly dinners to
+keep ties strong.
+
+Reasoning question:
+How do we describe Fatima's relation to Ravi in blood/genetic terms?
+
+Answer:
+Fatima is a genetic contributor (mitochondrial lineage), but not usually termed a parent; Jiro and
+Noah are the primary genetic parents (nuclear DNA).
+
+Case 69: Adopted Cousin
+Scenario:
+In Zurich, siblings Noah and Clara each raise a child, Arjun and Ibrahim. Ibrahim is adopted from
+another country. The children grow up calling each other cousins and spending summers together. The
+family emphasizes that titles like aunt, cousin, or grandparent signal trust and care. They label
+the branches carefully so that children can explain the tree in class. Old letters and digital
+albums help younger members understand their lineage. Holidays rotate among households to keep
+everyone connected across neighborhoods.
+
+Reasoning question:
+Under legal family tree conventions, how are Arjun and Ibrahim related? What about biologically?
+
+Answer:
+Legally and socially, they are first cousins because their parents are siblings. Biologically, only
+Arjun shares genes with Noah/Clara's line; Ibrahim's genetic ancestry differs.
+
+Case 70: Time-Dilated Aunt/Uncle
+Scenario:
+After a long relativistic voyage from Lagos, Santiago returns biologically younger than Ibrahim, who
+remained on Earth and had a child, Eli. The family tree shows Santiago and Ibrahim as siblings
+despite their age difference reversing. Old letters and digital albums help younger members
+understand their lineage. When disputes arise, they consult the tree and talk through
+responsibilities. They label the branches carefully so that children can explain the tree in class.
+
+Reasoning question:
+How is Santiago related to Eli?
+
+Answer:
+Santiago is Eli's aunt/uncle (sibling of the parent), even if chronological ages seem inverted.
+
+Case 71: Adoption and Family Tree Convention
+Scenario:
+In Stockholm, Samir and Mei legally adopted Chiara at birth. The birth certificate lists them as
+parents. The family tree at school uses legal parentage for lines of descent. A printed chart on the
+fridge tracks birthdays, anniversaries, and shared milestones. They label the branches carefully so
+that children can explain the tree in class.
+
+Reasoning question:
+Under a blood-relation lens, are Samir and Mei biologically related to Chiara? What about in the
+family tree used at school?
+
+Answer:
+Biologically, no. Legally and socially, yes: they are the parents on the family tree, which follows
+legal parentage for clarity.
+
+Case 72: Step-Siblings Without Blood Ties
+Scenario:
+In Casablanca, Elara and Chiara marry, bringing their children Aisha and Malia from prior
+relationships into one home. Although Aisha and Malia fight over bathroom time, they celebrate
+birthdays together. A printed chart on the fridge tracks birthdays, anniversaries, and shared
+milestones. Elders tell stories that map people to places and explain why names repeat. School forms
+sometimes force the family to clarify who can sign or pick up a child.
+
+Reasoning question:
+What is the blood relation between Aisha and Malia?
+
+Answer:
+There is no blood relation; they are step-siblings connected through their parents' marriage.
+
+Case 73: Cousins via Half-Siblings
+Scenario:
+In Lisbon, Theo and Zara are half-siblings who share their mother, Arjun. Theo has a child Adwoa;
+Zara has a child Diego. The kids live in different cities but video chat weekly. School forms
+sometimes force the family to clarify who can sign or pick up a child. When disputes arise, they
+consult the tree and talk through responsibilities. They label the branches carefully so that
+children can explain the tree in class. The point of the tree, they say, is not just biology but a
+promise to show up.
+
+Reasoning question:
+What is the relationship between Adwoa and Diego?
+
+Answer:
+They are first cousins because their parents are (half) siblings; degree of cousinhood does not
+change with half vs full siblings.
+
+Case 74: Clone as Genetic Twin
+Scenario:
+In Amman, Saif is a later-born genetic clone of Daria. Years later, Daria has a biological child,
+Ibrahim. At family events, people wonder how to describe Saif's relation to Ibrahim, since Saif
+shares the same genome as Daria. When disputes arise, they consult the tree and talk through
+responsibilities. The point of the tree, they say, is not just biology but a promise to show up.
+
+Reasoning question:
+Biologically speaking, what is Saif's relation to Ibrahim?
+
+Answer:
+Saif is the genetic equivalent of Daria's monozygotic twin. Thus, to Ibrahim, Saif is like an
+aunt/uncle (parent's identical twin) biologically, though legal recognition may vary.
+
+Case 75: In-Law Relationship
+Scenario:
+In Tunis, Samir married Kwame. Saif is Kwame's parent and frequently visits for dinner. At
+gatherings, Samir and Saif discuss recipes and weekend plans. When disputes arise, they consult the
+tree and talk through responsibilities. Holidays rotate among households to keep everyone connected
+across neighborhoods.
+
+Reasoning question:
+What is the relation between Samir and Saif?
+
+Answer:
+Samir is Saif's child-in-law (son-in-law or daughter-in-law, depending on gender); Saif is Samir's
+parent-in-law.
+
+Case 76: Cousins and Once Removed
+Scenario:
+In Accra, Ben and Jiro are first cousins who share grandparents Luna and Chiara. Ben has a child
+Zara; Jiro has a child Mei. The cousins meet mostly at weddings. School forms sometimes force the
+family to clarify who can sign or pick up a child. The family emphasizes that titles like aunt,
+cousin, or grandparent signal trust and care. Old letters and digital albums help younger members
+understand their lineage. Elders tell stories that map people to places and explain why names
+repeat.
+
+Reasoning question:
+What is the relation between Zara and Jiro? And between Zara and Mei?
+
+Answer:
+Zara is Jiro's first cousin once removed (one generation apart). Zara and Mei are second cousins
+(their parents are first cousins).
+
+Case 77: Maternal Uncle and Niece/Nephew
+Scenario:
+In Havana, Lea and Aisha have two children: Daria and Mateo. Daria later has a child, Ava. Family
+gatherings still happen at Lea's apartment, where the siblings share stories from childhood. The
+photo wall shows Mateo holding newborn Ava at the hospital. The point of the tree, they say, is not
+just biology but a promise to show up. Despite busy schedules, the family hosts monthly dinners to
+keep ties strong.
+
+Reasoning question:
+What is Mateo's relation to Ava? And how is Ava related to Mateo?
+
+Answer:
+Mateo is Ava's maternal uncle (mother's brother). In reverse, Ava is Mateo's niece/nephew.
+
+Case 78: Paternal Aunt
+Scenario:
+In Mexico City, Kim and Daria raised two children, Ben and Kofi. Years later, Ben became the father
+of Ibrahim. Kofi takes Ibrahim to weekend football matches, and people often guess she is the
+mother; she politely corrects them. Old letters and digital albums help younger members understand
+their lineage. When disputes arise, they consult the tree and talk through responsibilities.
+
+Reasoning question:
+What is Kofi's relation to Ibrahim?
+
+Answer:
+Kofi is Ibrahim's paternal aunt (father's sister).
+
+Case 79: Three-Parent Genetic Contribution
+Scenario:
+In Wellington, Kwame and Nikolai conceive Mateo using mitochondrial donation from Elara, resulting
+in three genetic contributors. The child is healthy and curious about how to describe these
+relations. The point of the tree, they say, is not just biology but a promise to show up. School
+forms sometimes force the family to clarify who can sign or pick up a child. When disputes arise,
+they consult the tree and talk through responsibilities. The family emphasizes that titles like
+aunt, cousin, or grandparent signal trust and care.
+
+Reasoning question:
+How do we describe Elara's relation to Mateo in blood/genetic terms?
+
+Answer:
+Elara is a genetic contributor (mitochondrial lineage), but not usually termed a parent; Kwame and
+Nikolai are the primary genetic parents (nuclear DNA).
+
+Case 80: Grandparent and Grandchild
+Scenario:
+In Reykjavík, Zara watches over Hana every Wednesday because Saif works late. A framed family tree
+shows Zara at the top branch, then Saif, then Hana. They label the branches carefully so that
+children can explain the tree in class. Holidays rotate among households to keep everyone connected
+across neighborhoods. When disputes arise, they consult the tree and talk through responsibilities.
+
+Reasoning question:
+What is Zara's relation to Hana, and vice versa?
+
+Answer:
+Zara is Hana's grandparent; Hana is Zara's grandchild.
+
+Case 81: Parent of a Sibling
+Scenario:
+In Havana, Elara is the mother of Kofi. Kofi and Mateo grew up in the same household and share both
+parents. At school events, Elara attends for both children and is recorded as their common emergency
+contact. The family keeps a simple hand-drawn tree on the fridge so the kids can explain who's who.
+Elders tell stories that map people to places and explain why names repeat. They label the branches
+carefully so that children can explain the tree in class. The point of the tree, they say, is not
+just biology but a promise to show up. Despite busy schedules, the family hosts monthly dinners to
+keep ties strong.
+
+Reasoning question:
+If Elara is Kofi's mother and Kofi is Mateo's sibling, how is Elara related to Mateo?
+
+Answer:
+Elara is Mateo's mother as well. Since Kofi and Mateo are full siblings (same parents), Elara is
+mother to both.
+
+Case 82: Maternal Uncle and Niece/Nephew
+Scenario:
+In Havana, Luis and Zara have two children: Fatima and Samir. Fatima later has a child, Hiro. Family
+gatherings still happen at Luis's apartment, where the siblings share stories from childhood. The
+photo wall shows Samir holding newborn Hiro at the hospital. School forms sometimes force the family
+to clarify who can sign or pick up a child. Holidays rotate among households to keep everyone
+connected across neighborhoods. They label the branches carefully so that children can explain the
+tree in class.
+
+Reasoning question:
+What is Samir's relation to Hiro? And how is Hiro related to Samir?
+
+Answer:
+Samir is Hiro's maternal uncle (mother's brother). In reverse, Hiro is Samir's niece/nephew.
+
+Case 83: First Cousins
+Scenario:
+In Chengdu, siblings Fatima and Diego are the adult children of Luna and Daria. Fatima has a child
+named Theo, while Diego has a child named Ravi. The cousins spend summers together at their
+grandparents' house. A printed chart on the fridge tracks birthdays, anniversaries, and shared
+milestones. They label the branches carefully so that children can explain the tree in class. School
+forms sometimes force the family to clarify who can sign or pick up a child. Old letters and digital
+albums help younger members understand their lineage.
+
+Reasoning question:
+How are Theo and Ravi related by blood?
+
+Answer:
+Theo and Ravi are first cousins; their parents Fatima and Diego are siblings.
+
+Case 84: Cousins via Half-Siblings
+Scenario:
+In Pune, Aisha and Zara are half-siblings who share their mother, Malia. Aisha has a child Jiro;
+Zara has a child Isha. The kids live in different cities but video chat weekly. They label the
+branches carefully so that children can explain the tree in class. Elders tell stories that map
+people to places and explain why names repeat. School forms sometimes force the family to clarify
+who can sign or pick up a child.
+
+Reasoning question:
+What is the relationship between Jiro and Isha?
+
+Answer:
+They are first cousins because their parents are (half) siblings; degree of cousinhood does not
+change with half vs full siblings.
+
+Case 85: Grandparent and Grandchild
+Scenario:
+In Mexico City, Naomi watches over Mateo every Wednesday because Nora works late. A framed family
+tree shows Naomi at the top branch, then Nora, then Mateo. Elders tell stories that map people to
+places and explain why names repeat. A printed chart on the fridge tracks birthdays, anniversaries,
+and shared milestones.
+
+Reasoning question:
+What is Naomi's relation to Mateo, and vice versa?
+
+Answer:
+Naomi is Mateo's grandparent; Mateo is Naomi's grandchild.
+
+Case 86: Step-Siblings Without Blood Ties
+Scenario:
+In Kyoto, Isha and Ben marry, bringing their children Malia and Samir from prior relationships into
+one home. Although Malia and Samir fight over bathroom time, they celebrate birthdays together. When
+disputes arise, they consult the tree and talk through responsibilities. The family emphasizes that
+titles like aunt, cousin, or grandparent signal trust and care. Elders tell stories that map people
+to places and explain why names repeat.
+
+Reasoning question:
+What is the blood relation between Malia and Samir?
+
+Answer:
+There is no blood relation; they are step-siblings connected through their parents' marriage.
+
+Case 87: Adoption and Family Tree Convention
+Scenario:
+In Kyoto, Adwoa and Mina legally adopted Eli at birth. The birth certificate lists them as parents.
+The family tree at school uses legal parentage for lines of descent. A printed chart on the fridge
+tracks birthdays, anniversaries, and shared milestones. Old letters and digital albums help younger
+members understand their lineage. When disputes arise, they consult the tree and talk through
+responsibilities.
+
+Reasoning question:
+Under a blood-relation lens, are Adwoa and Mina biologically related to Eli? What about in the
+family tree used at school?
+
+Answer:
+Biologically, no. Legally and socially, yes: they are the parents on the family tree, which follows
+legal parentage for clarity.
+
+Case 88: Great-Grandparent Link
+Scenario:
+In Istanbul, Arjun recently celebrated a 95th birthday with Nora, Kai, and Aisha. Four generations
+appear in one photo, a rarity the family treasures. The family emphasizes that titles like aunt,
+cousin, or grandparent signal trust and care. They label the branches carefully so that children can
+explain the tree in class. Old letters and digital albums help younger members understand their
+lineage. Despite busy schedules, the family hosts monthly dinners to keep ties strong.
+
+Reasoning question:
+How is Arjun related to Aisha?
+
+Answer:
+Arjun is Aisha's great-grandparent.
+
+Case 89: Double First Cousins
+Scenario:
+In Quito, siblings Ravi and Fatima married siblings Chiara and Ava, respectively. Ravi and Chiara
+had Jiro, while Fatima and Ava had Maya. The families take joint vacations every year. Old letters
+and digital albums help younger members understand their lineage. Despite busy schedules, the family
+hosts monthly dinners to keep ties strong. The family emphasizes that titles like aunt, cousin, or
+grandparent signal trust and care. Elders tell stories that map people to places and explain why
+names repeat.
+
+Reasoning question:
+What is the relationship between Jiro and Maya?
+
+Answer:
+They are double first cousins (they share both sets of grandparents).
+
+Case 90: Three-Parent Genetic Contribution
+Scenario:
+In Seoul, Carmen and Samir conceive Arjun using mitochondrial donation from Olivia, resulting in
+three genetic contributors. The child is healthy and curious about how to describe these relations.
+Elders tell stories that map people to places and explain why names repeat. The point of the tree,
+they say, is not just biology but a promise to show up. Old letters and digital albums help younger
+members understand their lineage. Despite busy schedules, the family hosts monthly dinners to keep
+ties strong.
+
+Reasoning question:
+How do we describe Olivia's relation to Arjun in blood/genetic terms?
+
+Answer:
+Olivia is a genetic contributor (mitochondrial lineage), but not usually termed a parent; Carmen and
+Samir are the primary genetic parents (nuclear DNA).
+
+Case 91: Step-Siblings Without Blood Ties
+Scenario:
+In Stockholm, Saif and Ravi marry, bringing their children Aisha and Chiara from prior relationships
+into one home. Although Aisha and Chiara fight over bathroom time, they celebrate birthdays
+together. Old letters and digital albums help younger members understand their lineage. Despite busy
+schedules, the family hosts monthly dinners to keep ties strong. School forms sometimes force the
+family to clarify who can sign or pick up a child.
+
+Reasoning question:
+What is the blood relation between Aisha and Chiara?
+
+Answer:
+There is no blood relation; they are step-siblings connected through their parents' marriage.
+
+Case 92: Paternal Aunt
+Scenario:
+In Amman, Nikolai and Mateo raised two children, Jonas and Isha. Years later, Jonas became the
+father of Arjun. Isha takes Arjun to weekend football matches, and people often guess she is the
+mother; she politely corrects them. Old letters and digital albums help younger members understand
+their lineage. The point of the tree, they say, is not just biology but a promise to show up. A
+printed chart on the fridge tracks birthdays, anniversaries, and shared milestones.
+
+Reasoning question:
+What is Isha's relation to Arjun?
+
+Answer:
+Isha is Arjun's paternal aunt (father's sister).
+
+Case 93: Time-Dilated Aunt/Uncle
+Scenario:
+After a long relativistic voyage from Osaka, Adwoa returns biologically younger than Fatima, who
+remained on Earth and had a child, Sofia. The family tree shows Adwoa and Fatima as siblings despite
+their age difference reversing. A printed chart on the fridge tracks birthdays, anniversaries, and
+shared milestones. They label the branches carefully so that children can explain the tree in class.
+Elders tell stories that map people to places and explain why names repeat. Old letters and digital
+albums help younger members understand their lineage.
+
+Reasoning question:
+How is Adwoa related to Sofia?
+
+Answer:
+Adwoa is Sofia's aunt/uncle (sibling of the parent), even if chronological ages seem inverted.
+
+Case 94: Time-Dilated Aunt/Uncle
+Scenario:
+After a long relativistic voyage from Zurich, Kwame returns biologically younger than Chiara, who
+remained on Earth and had a child, Luna. The family tree shows Kwame and Chiara as siblings despite
+their age difference reversing. Old letters and digital albums help younger members understand their
+lineage. School forms sometimes force the family to clarify who can sign or pick up a child. Elders
+tell stories that map people to places and explain why names repeat.
+
+Reasoning question:
+How is Kwame related to Luna?
+
+Answer:
+Kwame is Luna's aunt/uncle (sibling of the parent), even if chronological ages seem inverted.
+
+Case 95: Cousins via Half-Siblings
+Scenario:
+In Seoul, Yara and Mei are half-siblings who share their mother, Eli. Yara has a child Kofi; Mei has
+a child Daria. The kids live in different cities but video chat weekly. Holidays rotate among
+households to keep everyone connected across neighborhoods. A printed chart on the fridge tracks
+birthdays, anniversaries, and shared milestones. Old letters and digital albums help younger members
+understand their lineage. The point of the tree, they say, is not just biology but a promise to show
+up.
+
+Reasoning question:
+What is the relationship between Kofi and Daria?
+
+Answer:
+They are first cousins because their parents are (half) siblings; degree of cousinhood does not
+change with half vs full siblings.
+
+Case 96: Cousins and Once Removed
+Scenario:
+In Osaka, Mina and Diego are first cousins who share grandparents Zara and Nora. Mina has a child
+Daria; Diego has a child Eli. The cousins meet mostly at weddings. The family emphasizes that titles
+like aunt, cousin, or grandparent signal trust and care. They label the branches carefully so that
+children can explain the tree in class. When disputes arise, they consult the tree and talk through
+responsibilities.
+
+Reasoning question:
+What is the relation between Daria and Diego? And between Daria and Eli?
+
+Answer:
+Daria is Diego's first cousin once removed (one generation apart). Daria and Eli are second cousins
+(their parents are first cousins).
+
+Case 97: Step-Siblings Without Blood Ties
+Scenario:
+In Lisbon, Elara and Luis marry, bringing their children Carmen and Luna from prior relationships
+into one home. Although Carmen and Luna fight over bathroom time, they celebrate birthdays together.
+The point of the tree, they say, is not just biology but a promise to show up. Holidays rotate among
+households to keep everyone connected across neighborhoods. Despite busy schedules, the family hosts
+monthly dinners to keep ties strong. When disputes arise, they consult the tree and talk through
+responsibilities.
+
+Reasoning question:
+What is the blood relation between Carmen and Luna?
+
+Answer:
+There is no blood relation; they are step-siblings connected through their parents' marriage.
+
+Case 98: Adoption and Family Tree Convention
+Scenario:
+In Mexico City, Jonas and Arjun legally adopted Ibrahim at birth. The birth certificate lists them
+as parents. The family tree at school uses legal parentage for lines of descent. Elders tell stories
+that map people to places and explain why names repeat. The family emphasizes that titles like aunt,
+cousin, or grandparent signal trust and care. They label the branches carefully so that children can
+explain the tree in class. Holidays rotate among households to keep everyone connected across
+neighborhoods.
+
+Reasoning question:
+Under a blood-relation lens, are Jonas and Arjun biologically related to Ibrahim? What about in the
+family tree used at school?
+
+Answer:
+Biologically, no. Legally and socially, yes: they are the parents on the family tree, which follows
+legal parentage for clarity.
+
+Case 99: Half-Uncle/Aunt
+Scenario:
+In Lagos, Kwame had two children, Ada and Nikolai, with different partners. Ada later has a child,
+Theo. The family treats all siblings equally despite different parentage. They label the branches
+carefully so that children can explain the tree in class. Holidays rotate among households to keep
+everyone connected across neighborhoods. When disputes arise, they consult the tree and talk through
+responsibilities. The family emphasizes that titles like aunt, cousin, or grandparent signal trust
+and care.
+
+Reasoning question:
+What is Nikolai's relation to Theo?
+
+Answer:
+Nikolai is Theo's half-uncle/aunt (half-sibling of the parent).
+
+Case 100: First Cousins
+Scenario:
+In Accra, siblings Jonas and Theo are the adult children of Omar and Ada. Jonas has a child named
+Kofi, while Theo has a child named Noah. The cousins spend summers together at their grandparents'
+house. A printed chart on the fridge tracks birthdays, anniversaries, and shared milestones. School
+forms sometimes force the family to clarify who can sign or pick up a child.
+
+Reasoning question:
+How are Kofi and Noah related by blood?
+
+Answer:
+Kofi and Noah are first cousins; their parents Jonas and Theo are siblings.
+
