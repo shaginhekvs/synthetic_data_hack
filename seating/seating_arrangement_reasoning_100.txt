@@ -1,0 +1,1394 @@
+Case 1: Cultural Banquet Reasoning
+Scenario:
+In a company boardroom in New York, executives Mei, Jiro, Theo, Yara, and Tariq are seated for an
+urgent meeting. Tariq has to sit at an end because of camera placement. Mei and Jiro prefer to sit
+side by side. Theo must be between Yara and Tariq. Every adjustment reshapes who faces whom, showing
+how social reasoning governs placement.
+
+Reasoning question:
+Who ends up between Yara and Tariq under these constraints?
+
+Answer:
+Since Mei and Jiro sit together and Tariq is isolated at an end, Theo must be next to Yara to
+balance the arrangement.
+
+Case 2: Roundtable Discussion
+Scenario:
+In Geneva, a diplomatic roundtable features five delegates: Zara, Omar, Arjun, Theo, and Daria. Zara
+and Arjun are from rival teams and must not be adjacent. Theo sits immediately to Daria's left. The
+moderator insists that Omar face Zara. Every adjustment reshapes who faces whom, showing how social
+reasoning governs placement.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Arjun's left?
+
+Answer:
+Because Theo and Daria are required to sit together, the person opposite them (Zara) cannot be
+adjacent to Omar.
+
+Case 3: Festival Jury Positions
+Scenario:
+In Sydney, a diplomatic roundtable features five delegates: Fatima, Carmen, Jiro, Lea, and Hiro.
+Hiro has to sit at an end because of camera placement. Fatima and Carmen prefer to sit side by side.
+Jiro must be between Lea and Hiro. Hosts often use seating to balance rivalries and encourage cross-
+group conversation.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Carmen sits between Fatima and Jiro, so Fatima cannot be next to Lea; thus, Lea and Fatima are
+separated by Carmen.
+
+Case 4: Boardroom Balance
+Scenario:
+In Barcelona, a diplomatic roundtable features five delegates: Elara, Noah, Jonas, Santiago, and
+Isha. Elara and Jonas are from rival teams and must not be adjacent. Santiago sits immediately to
+Isha's left. The moderator insists that Noah face Elara. Every adjustment reshapes who faces whom,
+showing how social reasoning governs placement.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Since Elara and Noah sit together and Isha is isolated at an end, Jonas must be next to Santiago to
+balance the arrangement.
+
+Case 5: Diplomatic Table Arrangement
+Scenario:
+During a classroom debate in Mumbai, students Jiro, Malia, Nikolai, Saif, and Eli sit in a
+semicircle facing their teacher. Eli has to sit at an end because of camera placement. Jiro and
+Malia prefer to sit side by side. Nikolai must be between Saif and Eli. These cases show that
+seating arrangements test empathy and perception more than arithmetic.
+
+Reasoning question:
+Who ends up between Saif and Eli under these constraints?
+
+Answer:
+Since Jiro and Malia sit together and Eli is isolated at an end, Nikolai must be next to Saif to
+balance the arrangement.
+
+Case 6: Cultural Banquet Reasoning
+Scenario:
+In a company boardroom in Stockholm, executives Yara, Luna, Ravi, Saif, and Theo are seated for an
+urgent meeting. Yara and Ravi are from rival teams and must not be adjacent. Saif sits immediately
+to Theo's left. The moderator insists that Luna face Yara. Every adjustment reshapes who faces whom,
+showing how social reasoning governs placement.
+
+Reasoning question:
+Who ends up between Saif and Theo under these constraints?
+
+Answer:
+Because Saif and Theo are required to sit together, the person opposite them (Yara) cannot be
+adjacent to Luna.
+
+Case 7: Wedding Seating Puzzle
+Scenario:
+At a film festival in New York, jury members Santiago, Ada, Naomi, Eli, and Nikolai must be seated
+for a group interview. Nikolai has to sit at an end because of camera placement. Santiago and Ada
+prefer to sit side by side. Naomi must be between Eli and Nikolai. Every adjustment reshapes who
+faces whom, showing how social reasoning governs placement.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Given that Eli is to Nikolai's left and Ada faces Santiago, Naomi must occupy the seat between Eli
+and Nikolai.
+
+Case 8: Cultural Banquet Reasoning
+Scenario:
+In a company boardroom in Osaka, executives Arjun, Mina, Ava, Maya, and Kai are seated for an urgent
+meeting. Arjun and Ava are from rival teams and must not be adjacent. Maya sits immediately to Kai's
+left. The moderator insists that Mina face Arjun. Hosts often use seating to balance rivalries and
+encourage cross-group conversation.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Given that Maya is to Kai's left and Mina faces Arjun, Ava must occupy the seat between Maya and
+Kai.
+
+Case 9: Council Table Placement
+Scenario:
+At a film festival in Rome, jury members Malia, Santiago, Jiro, Isha, and Maya must be seated for a
+group interview. Santiago must sit between Malia and Jiro. Isha must face Santiago. Maya requests to
+sit beside Jiro to share notes. Every adjustment reshapes who faces whom, showing how social
+reasoning governs placement.
+
+Reasoning question:
+Who ends up between Isha and Maya under these constraints?
+
+Answer:
+Since Jiro must face Malia, Jiro sits directly opposite Malia. The others adjust around them
+respecting adjacency rules.
+
+Case 10: Wedding Seating Puzzle
+Scenario:
+At a film festival in Rome, jury members Daria, Ibrahim, Isha, Ada, and Lea must be seated for a
+group interview. Daria and Isha are from rival teams and must not be adjacent. Ada sits immediately
+to Lea's left. The moderator insists that Ibrahim face Daria. Social logic replaces mathematical
+arrangement, ensuring comfort and cooperation.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Isha's left?
+
+Answer:
+Since Isha must face Daria, Isha sits directly opposite Daria. The others adjust around them
+respecting adjacency rules.
+
+Case 11: Roundtable Discussion
+Scenario:
+A family gathering in Barcelona brings together Daria, Ava, Zara, Naomi, and Sofia around a circular
+dining table. Daria refuses to sit next to Ava. Zara must sit opposite Daria. Naomi and Sofia are
+close colleagues who insist on sitting together. These cases show that seating arrangements test
+empathy and perception more than arithmetic.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Since Zara must face Daria, Zara sits directly opposite Daria. The others adjust around them
+respecting adjacency rules.
+
+Case 12: Ceremonial Arrangement
+Scenario:
+In a company boardroom in Sydney, executives Kai, Ava, Mei, Malia, and Luna are seated for an urgent
+meeting. Kai is the host and must sit at the center. Ava prefers to sit at one end. Mei insists on
+sitting to Kai's right. Malia and Luna cannot face each other. Social logic replaces mathematical
+arrangement, ensuring comfort and cooperation.
+
+Reasoning question:
+Who ends up between Malia and Luna under these constraints?
+
+Answer:
+Since Kai and Ava sit together and Luna is isolated at an end, Mei must be next to Malia to balance
+the arrangement.
+
+Case 13: Family Dinner Logic
+Scenario:
+In a company boardroom in Istanbul, executives Arjun, Zara, Tariq, Nora, and Luna are seated for an
+urgent meeting. Zara must sit between Arjun and Tariq. Nora must face Zara. Luna requests to sit
+beside Tariq to share notes. Every adjustment reshapes who faces whom, showing how social reasoning
+governs placement.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Given that Nora is to Luna's left and Zara faces Arjun, Tariq must occupy the seat between Nora and
+Luna.
+
+Case 14: Council Table Placement
+Scenario:
+In Istanbul, a diplomatic roundtable features five delegates: Sofia, Carmen, Ava, Theo, and Lea.
+Carmen must sit between Sofia and Ava. Theo must face Carmen. Lea requests to sit beside Ava to
+share notes. Seating at such events often reflects not just proximity but diplomacy and hierarchy.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Ava's left?
+
+Answer:
+Since Ava must face Sofia, Ava sits directly opposite Sofia. The others adjust around them
+respecting adjacency rules.
+
+Case 15: Ceremonial Arrangement
+Scenario:
+During a classroom debate in Prague, students Mei, Elara, Daria, Omar, and Malia sit in a semicircle
+facing their teacher. Malia has to sit at an end because of camera placement. Mei and Elara prefer
+to sit side by side. Daria must be between Omar and Malia. Social logic replaces mathematical
+arrangement, ensuring comfort and cooperation.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Because Omar and Malia are required to sit together, the person opposite them (Mei) cannot be
+adjacent to Elara.
+
+Case 16: Family Dinner Logic
+Scenario:
+In Istanbul, a diplomatic roundtable features five delegates: Luis, Isha, Hiro, Santiago, and Yara.
+Yara has to sit at an end because of camera placement. Luis and Isha prefer to sit side by side.
+Hiro must be between Santiago and Yara. Social logic replaces mathematical arrangement, ensuring
+comfort and cooperation.
+
+Reasoning question:
+Who ends up between Santiago and Yara under these constraints?
+
+Answer:
+Since Hiro must face Luis, Hiro sits directly opposite Luis. The others adjust around them
+respecting adjacency rules.
+
+Case 17: Family Dinner Logic
+Scenario:
+In London, a diplomatic roundtable features five delegates: Naomi, Ravi, Daria, Sofia, and Ada.
+Naomi is the host and must sit at the center. Ravi prefers to sit at one end. Daria insists on
+sitting to Naomi's right. Sofia and Ada cannot face each other. These cases show that seating
+arrangements test empathy and perception more than arithmetic.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Because Sofia and Ada are required to sit together, the person opposite them (Naomi) cannot be
+adjacent to Ravi.
+
+Case 18: Conference Harmony
+Scenario:
+During a classroom debate in Paris, students Ibrahim, Carmen, Mina, Isha, and Naomi sit in a
+semicircle facing their teacher. Ibrahim refuses to sit next to Carmen. Mina must sit opposite
+Ibrahim. Isha and Naomi are close colleagues who insist on sitting together. Social logic replaces
+mathematical arrangement, ensuring comfort and cooperation.
+
+Reasoning question:
+Who ends up between Isha and Naomi under these constraints?
+
+Answer:
+Carmen sits between Ibrahim and Mina, so Ibrahim cannot be next to Isha; thus, Isha and Ibrahim are
+separated by Carmen.
+
+Case 19: Festival Jury Positions
+Scenario:
+During a classroom debate in Paris, students Eli, Santiago, Malia, Tariq, and Arjun sit in a
+semicircle facing their teacher. Eli is the host and must sit at the center. Santiago prefers to sit
+at one end. Malia insists on sitting to Eli's right. Tariq and Arjun cannot face each other. Every
+adjustment reshapes who faces whom, showing how social reasoning governs placement.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Malia's left?
+
+Answer:
+Since Eli and Santiago sit together and Arjun is isolated at an end, Malia must be next to Tariq to
+balance the arrangement.
+
+Case 20: Council Table Placement
+Scenario:
+In New York, a diplomatic roundtable features five delegates: Saif, Mina, Theo, Luis, and Yara. Saif
+refuses to sit next to Mina. Theo must sit opposite Saif. Luis and Yara are close colleagues who
+insist on sitting together. Every adjustment reshapes who faces whom, showing how social reasoning
+governs placement.
+
+Reasoning question:
+Who ends up between Luis and Yara under these constraints?
+
+Answer:
+Mina sits between Saif and Theo, so Saif cannot be next to Luis; thus, Luis and Saif are separated
+by Mina.
+
+Case 21: Cultural Banquet Reasoning
+Scenario:
+In Paris, a diplomatic roundtable features five delegates: Noah, Fatima, Nora, Naomi, and Luis. Luis
+has to sit at an end because of camera placement. Noah and Fatima prefer to sit side by side. Nora
+must be between Naomi and Luis. These cases show that seating arrangements test empathy and
+perception more than arithmetic.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Nora's left?
+
+Answer:
+Since Noah and Fatima sit together and Luis is isolated at an end, Nora must be next to Naomi to
+balance the arrangement.
+
+Case 22: Conference Harmony
+Scenario:
+In Stockholm, a diplomatic roundtable features five delegates: Arjun, Mina, Luna, Theo, and Eli.
+Arjun and Luna are from rival teams and must not be adjacent. Theo sits immediately to Eli's left.
+The moderator insists that Mina face Arjun. Seating at such events often reflects not just proximity
+but diplomacy and hierarchy.
+
+Reasoning question:
+If Mina sits between Arjun and Luna, who cannot be placed next to Theo?
+
+Answer:
+Since Luna must face Arjun, Luna sits directly opposite Arjun. The others adjust around them
+respecting adjacency rules.
+
+Case 23: Boardroom Balance
+Scenario:
+At a film festival in Paris, jury members Theo, Jiro, Mei, Mina, and Lea must be seated for a group
+interview. Jiro must sit between Theo and Mei. Mina must face Jiro. Lea requests to sit beside Mei
+to share notes. Hosts often use seating to balance rivalries and encourage cross-group conversation.
+
+Reasoning question:
+If Jiro sits between Theo and Mei, who cannot be placed next to Mina?
+
+Answer:
+Jiro sits between Theo and Mei, so Theo cannot be next to Mina; thus, Mina and Theo are separated by
+Jiro.
+
+Case 24: Council Table Placement
+Scenario:
+A family gathering in Geneva brings together Tariq, Eli, Ava, Ravi, and Theo around a circular
+dining table. Tariq refuses to sit next to Eli. Ava must sit opposite Tariq. Ravi and Theo are close
+colleagues who insist on sitting together. Seating at such events often reflects not just proximity
+but diplomacy and hierarchy.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Ava's left?
+
+Answer:
+Since Ava must face Tariq, Ava sits directly opposite Tariq. The others adjust around them
+respecting adjacency rules.
+
+Case 25: Wedding Seating Puzzle
+Scenario:
+At a film festival in Stockholm, jury members Fatima, Mei, Santiago, Maya, and Nikolai must be
+seated for a group interview. Nikolai has to sit at an end because of camera placement. Fatima and
+Mei prefer to sit side by side. Santiago must be between Maya and Nikolai. Every adjustment reshapes
+who faces whom, showing how social reasoning governs placement.
+
+Reasoning question:
+If Mei sits between Fatima and Santiago, who cannot be placed next to Maya?
+
+Answer:
+Since Fatima and Mei sit together and Nikolai is isolated at an end, Santiago must be next to Maya
+to balance the arrangement.
+
+Case 26: Conference Harmony
+Scenario:
+At a film festival in New York, jury members Jonas, Jiro, Eli, Carmen, and Arjun must be seated for
+a group interview. Jonas refuses to sit next to Jiro. Eli must sit opposite Jonas. Carmen and Arjun
+are close colleagues who insist on sitting together. Hosts often use seating to balance rivalries
+and encourage cross-group conversation.
+
+Reasoning question:
+Who ends up between Carmen and Arjun under these constraints?
+
+Answer:
+Since Eli must face Jonas, Eli sits directly opposite Jonas. The others adjust around them
+respecting adjacency rules.
+
+Case 27: Boardroom Balance
+Scenario:
+In a company boardroom in Toronto, executives Omar, Elara, Tariq, Mei, and Noah are seated for an
+urgent meeting. Elara must sit between Omar and Tariq. Mei must face Elara. Noah requests to sit
+beside Tariq to share notes. Seating at such events often reflects not just proximity but diplomacy
+and hierarchy.
+
+Reasoning question:
+If Elara sits between Omar and Tariq, who cannot be placed next to Mei?
+
+Answer:
+Since Omar and Elara sit together and Noah is isolated at an end, Tariq must be next to Mei to
+balance the arrangement.
+
+Case 28: Family Dinner Logic
+Scenario:
+In a company boardroom in Paris, executives Omar, Maya, Luna, Saif, and Fatima are seated for an
+urgent meeting. Maya must sit between Omar and Luna. Saif must face Maya. Fatima requests to sit
+beside Luna to share notes. These cases show that seating arrangements test empathy and perception
+more than arithmetic.
+
+Reasoning question:
+Given these conditions, who must sit directly opposite Omar?
+
+Answer:
+Given that Saif is to Fatima's left and Maya faces Omar, Luna must occupy the seat between Saif and
+Fatima.
+
+Case 29: Wedding Seating Puzzle
+Scenario:
+A family gathering in Sydney brings together Tariq, Carmen, Hana, Yara, and Luna around a circular
+dining table. Luna has to sit at an end because of camera placement. Tariq and Carmen prefer to sit
+side by side. Hana must be between Yara and Luna. These cases show that seating arrangements test
+empathy and perception more than arithmetic.
+
+Reasoning question:
+Given these conditions, who must sit directly opposite Tariq?
+
+Answer:
+Since Tariq and Carmen sit together and Luna is isolated at an end, Hana must be next to Yara to
+balance the arrangement.
+
+Case 30: Ceremonial Arrangement
+Scenario:
+During a classroom debate in Rome, students Kai, Yara, Noah, Mina, and Naomi sit in a semicircle
+facing their teacher. Kai and Noah are from rival teams and must not be adjacent. Mina sits
+immediately to Naomi's left. The moderator insists that Yara face Kai. Social logic replaces
+mathematical arrangement, ensuring comfort and cooperation.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Noah's left?
+
+Answer:
+Yara sits between Kai and Noah, so Kai cannot be next to Mina; thus, Mina and Kai are separated by
+Yara.
+
+Case 31: Festival Jury Positions
+Scenario:
+In a company boardroom in Lisbon, executives Ibrahim, Maya, Jiro, Eli, and Hiro are seated for an
+urgent meeting. Maya must sit between Ibrahim and Jiro. Eli must face Maya. Hiro requests to sit
+beside Jiro to share notes. Social logic replaces mathematical arrangement, ensuring comfort and
+cooperation.
+
+Reasoning question:
+Given these conditions, who must sit directly opposite Ibrahim?
+
+Answer:
+Since Jiro must face Ibrahim, Jiro sits directly opposite Ibrahim. The others adjust around them
+respecting adjacency rules.
+
+Case 32: Conference Harmony
+Scenario:
+A family gathering in London brings together Yara, Jiro, Kai, Nikolai, and Jonas around a circular
+dining table. Jonas has to sit at an end because of camera placement. Yara and Jiro prefer to sit
+side by side. Kai must be between Nikolai and Jonas. Social logic replaces mathematical arrangement,
+ensuring comfort and cooperation.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Kai's left?
+
+Answer:
+Jiro sits between Yara and Kai, so Yara cannot be next to Nikolai; thus, Nikolai and Yara are
+separated by Jiro.
+
+Case 33: Council Table Placement
+Scenario:
+During a classroom debate in Sydney, students Santiago, Ada, Elara, Sofia, and Nora sit in a
+semicircle facing their teacher. Santiago is the host and must sit at the center. Ada prefers to sit
+at one end. Elara insists on sitting to Santiago's right. Sofia and Nora cannot face each other.
+Hosts often use seating to balance rivalries and encourage cross-group conversation.
+
+Reasoning question:
+Who ends up between Sofia and Nora under these constraints?
+
+Answer:
+Since Elara must face Santiago, Elara sits directly opposite Santiago. The others adjust around them
+respecting adjacency rules.
+
+Case 34: Council Table Placement
+Scenario:
+In a company boardroom in Mumbai, executives Maya, Ibrahim, Zara, Elara, and Jonas are seated for an
+urgent meeting. Ibrahim must sit between Maya and Zara. Elara must face Ibrahim. Jonas requests to
+sit beside Zara to share notes. Seating at such events often reflects not just proximity but
+diplomacy and hierarchy.
+
+Reasoning question:
+If Ibrahim sits between Maya and Zara, who cannot be placed next to Elara?
+
+Answer:
+Since Zara must face Maya, Zara sits directly opposite Maya. The others adjust around them
+respecting adjacency rules.
+
+Case 35: Family Dinner Logic
+Scenario:
+In a company boardroom in Osaka, executives Elara, Maya, Nikolai, Carmen, and Naomi are seated for
+an urgent meeting. Elara is the host and must sit at the center. Maya prefers to sit at one end.
+Nikolai insists on sitting to Elara's right. Carmen and Naomi cannot face each other. Seating at
+such events often reflects not just proximity but diplomacy and hierarchy.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Since Nikolai must face Elara, Nikolai sits directly opposite Elara. The others adjust around them
+respecting adjacency rules.
+
+Case 36: Conference Harmony
+Scenario:
+A family gathering in Helsinki brings together Hiro, Eli, Elara, Maya, and Sofia around a circular
+dining table. Eli must sit between Hiro and Elara. Maya must face Eli. Sofia requests to sit beside
+Elara to share notes. Hosts often use seating to balance rivalries and encourage cross-group
+conversation.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Elara's left?
+
+Answer:
+Since Hiro and Eli sit together and Sofia is isolated at an end, Elara must be next to Maya to
+balance the arrangement.
+
+Case 37: Family Dinner Logic
+Scenario:
+At a film festival in Barcelona, jury members Carmen, Sofia, Ava, Ada, and Isha must be seated for a
+group interview. Isha has to sit at an end because of camera placement. Carmen and Sofia prefer to
+sit side by side. Ava must be between Ada and Isha. Seating at such events often reflects not just
+proximity but diplomacy and hierarchy.
+
+Reasoning question:
+If Sofia sits between Carmen and Ava, who cannot be placed next to Ada?
+
+Answer:
+Since Carmen and Sofia sit together and Isha is isolated at an end, Ava must be next to Ada to
+balance the arrangement.
+
+Case 38: Roundtable Discussion
+Scenario:
+In a company boardroom in Cairo, executives Naomi, Kai, Nora, Noah, and Omar are seated for an
+urgent meeting. Naomi refuses to sit next to Kai. Nora must sit opposite Naomi. Noah and Omar are
+close colleagues who insist on sitting together. Hosts often use seating to balance rivalries and
+encourage cross-group conversation.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Nora's left?
+
+Answer:
+Since Nora must face Naomi, Nora sits directly opposite Naomi. The others adjust around them
+respecting adjacency rules.
+
+Case 39: Roundtable Discussion
+Scenario:
+At a film festival in Osaka, jury members Naomi, Kai, Hana, Luna, and Theo must be seated for a
+group interview. Naomi and Hana are from rival teams and must not be adjacent. Luna sits immediately
+to Theo's left. The moderator insists that Kai face Naomi. Every adjustment reshapes who faces whom,
+showing how social reasoning governs placement.
+
+Reasoning question:
+Given these conditions, who must sit directly opposite Naomi?
+
+Answer:
+Since Hana must face Naomi, Hana sits directly opposite Naomi. The others adjust around them
+respecting adjacency rules.
+
+Case 40: Festival Jury Positions
+Scenario:
+In Seville, a diplomatic roundtable features five delegates: Elara, Omar, Fatima, Ada, and Malia.
+Malia has to sit at an end because of camera placement. Elara and Omar prefer to sit side by side.
+Fatima must be between Ada and Malia. Hosts often use seating to balance rivalries and encourage
+cross-group conversation.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Because Ada and Malia are required to sit together, the person opposite them (Elara) cannot be
+adjacent to Omar.
+
+Case 41: Council Table Placement
+Scenario:
+At a film festival in Stockholm, jury members Fatima, Zara, Lea, Malia, and Elara must be seated for
+a group interview. Fatima is the host and must sit at the center. Zara prefers to sit at one end.
+Lea insists on sitting to Fatima's right. Malia and Elara cannot face each other. Every adjustment
+reshapes who faces whom, showing how social reasoning governs placement.
+
+Reasoning question:
+If Zara sits between Fatima and Lea, who cannot be placed next to Malia?
+
+Answer:
+Zara sits between Fatima and Lea, so Fatima cannot be next to Malia; thus, Malia and Fatima are
+separated by Zara.
+
+Case 42: Wedding Seating Puzzle
+Scenario:
+A family gathering in Athens brings together Hiro, Mei, Malia, Nikolai, and Ibrahim around a
+circular dining table. Hiro and Malia are from rival teams and must not be adjacent. Nikolai sits
+immediately to Ibrahim's left. The moderator insists that Mei face Hiro. Hosts often use seating to
+balance rivalries and encourage cross-group conversation.
+
+Reasoning question:
+If Mei sits between Hiro and Malia, who cannot be placed next to Nikolai?
+
+Answer:
+Mei sits between Hiro and Malia, so Hiro cannot be next to Nikolai; thus, Nikolai and Hiro are
+separated by Mei.
+
+Case 43: Roundtable Discussion
+Scenario:
+During a classroom debate in Stockholm, students Carmen, Luis, Kai, Daria, and Luna sit in a
+semicircle facing their teacher. Luis must sit between Carmen and Kai. Daria must face Luis. Luna
+requests to sit beside Kai to share notes. Hosts often use seating to balance rivalries and
+encourage cross-group conversation.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Kai's left?
+
+Answer:
+Since Kai must face Carmen, Kai sits directly opposite Carmen. The others adjust around them
+respecting adjacency rules.
+
+Case 44: Roundtable Discussion
+Scenario:
+At a film festival in Zurich, jury members Eli, Kai, Naomi, Mina, and Yara must be seated for a
+group interview. Eli is the host and must sit at the center. Kai prefers to sit at one end. Naomi
+insists on sitting to Eli's right. Mina and Yara cannot face each other. Hosts often use seating to
+balance rivalries and encourage cross-group conversation.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Since Naomi must face Eli, Naomi sits directly opposite Eli. The others adjust around them
+respecting adjacency rules.
+
+Case 45: Cultural Banquet Reasoning
+Scenario:
+At a film festival in Stockholm, jury members Santiago, Nikolai, Noah, Hiro, and Tariq must be
+seated for a group interview. Santiago refuses to sit next to Nikolai. Noah must sit opposite
+Santiago. Hiro and Tariq are close colleagues who insist on sitting together. These cases show that
+seating arrangements test empathy and perception more than arithmetic.
+
+Reasoning question:
+Who ends up between Hiro and Tariq under these constraints?
+
+Answer:
+Since Santiago and Nikolai sit together and Tariq is isolated at an end, Noah must be next to Hiro
+to balance the arrangement.
+
+Case 46: Conference Harmony
+Scenario:
+In Mumbai, a diplomatic roundtable features five delegates: Fatima, Hiro, Ravi, Nikolai, and
+Ibrahim. Hiro must sit between Fatima and Ravi. Nikolai must face Hiro. Ibrahim requests to sit
+beside Ravi to share notes. Social logic replaces mathematical arrangement, ensuring comfort and
+cooperation.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Hiro sits between Fatima and Ravi, so Fatima cannot be next to Nikolai; thus, Nikolai and Fatima are
+separated by Hiro.
+
+Case 47: Cultural Banquet Reasoning
+Scenario:
+A family gathering in Stockholm brings together Tariq, Ada, Hiro, Ava, and Maya around a circular
+dining table. Tariq refuses to sit next to Ada. Hiro must sit opposite Tariq. Ava and Maya are close
+colleagues who insist on sitting together. Seating at such events often reflects not just proximity
+but diplomacy and hierarchy.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Hiro's left?
+
+Answer:
+Ada sits between Tariq and Hiro, so Tariq cannot be next to Ava; thus, Ava and Tariq are separated
+by Ada.
+
+Case 48: Cultural Banquet Reasoning
+Scenario:
+In a company boardroom in Zurich, executives Jiro, Mina, Jonas, Zara, and Sofia are seated for an
+urgent meeting. Jiro refuses to sit next to Mina. Jonas must sit opposite Jiro. Zara and Sofia are
+close colleagues who insist on sitting together. Hosts often use seating to balance rivalries and
+encourage cross-group conversation.
+
+Reasoning question:
+Given these conditions, who must sit directly opposite Jiro?
+
+Answer:
+Because Zara and Sofia are required to sit together, the person opposite them (Jiro) cannot be
+adjacent to Mina.
+
+Case 49: Diplomatic Table Arrangement
+Scenario:
+In a company boardroom in Zurich, executives Luis, Nora, Elara, Zara, and Tariq are seated for an
+urgent meeting. Tariq has to sit at an end because of camera placement. Luis and Nora prefer to sit
+side by side. Elara must be between Zara and Tariq. Seating at such events often reflects not just
+proximity but diplomacy and hierarchy.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Because Zara and Tariq are required to sit together, the person opposite them (Luis) cannot be
+adjacent to Nora.
+
+Case 50: Ceremonial Arrangement
+Scenario:
+During a classroom debate in Rome, students Tariq, Maya, Ibrahim, Jiro, and Yara sit in a semicircle
+facing their teacher. Maya must sit between Tariq and Ibrahim. Jiro must face Maya. Yara requests to
+sit beside Ibrahim to share notes. Hosts often use seating to balance rivalries and encourage cross-
+group conversation.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Ibrahim's left?
+
+Answer:
+Maya sits between Tariq and Ibrahim, so Tariq cannot be next to Jiro; thus, Jiro and Tariq are
+separated by Maya.
+
+Case 51: Cultural Banquet Reasoning
+Scenario:
+In Prague, a diplomatic roundtable features five delegates: Eli, Malia, Mei, Maya, and Luna. Eli and
+Mei are from rival teams and must not be adjacent. Maya sits immediately to Luna's left. The
+moderator insists that Malia face Eli. Every adjustment reshapes who faces whom, showing how social
+reasoning governs placement.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Mei's left?
+
+Answer:
+Malia sits between Eli and Mei, so Eli cannot be next to Maya; thus, Maya and Eli are separated by
+Malia.
+
+Case 52: Council Table Placement
+Scenario:
+In a company boardroom in Sydney, executives Mina, Jiro, Nikolai, Elara, and Luis are seated for an
+urgent meeting. Mina refuses to sit next to Jiro. Nikolai must sit opposite Mina. Elara and Luis are
+close colleagues who insist on sitting together. These cases show that seating arrangements test
+empathy and perception more than arithmetic.
+
+Reasoning question:
+Who ends up between Elara and Luis under these constraints?
+
+Answer:
+Since Nikolai must face Mina, Nikolai sits directly opposite Mina. The others adjust around them
+respecting adjacency rules.
+
+Case 53: Boardroom Balance
+Scenario:
+During a classroom debate in Toronto, students Ada, Zara, Jiro, Saif, and Mei sit in a semicircle
+facing their teacher. Zara must sit between Ada and Jiro. Saif must face Zara. Mei requests to sit
+beside Jiro to share notes. Social logic replaces mathematical arrangement, ensuring comfort and
+cooperation.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Jiro's left?
+
+Answer:
+Zara sits between Ada and Jiro, so Ada cannot be next to Saif; thus, Saif and Ada are separated by
+Zara.
+
+Case 54: Cultural Banquet Reasoning
+Scenario:
+In a company boardroom in Athens, executives Ibrahim, Eli, Saif, Carmen, and Theo are seated for an
+urgent meeting. Ibrahim is the host and must sit at the center. Eli prefers to sit at one end. Saif
+insists on sitting to Ibrahim's right. Carmen and Theo cannot face each other. Social logic replaces
+mathematical arrangement, ensuring comfort and cooperation.
+
+Reasoning question:
+Given these conditions, who must sit directly opposite Ibrahim?
+
+Answer:
+Given that Carmen is to Theo's left and Eli faces Ibrahim, Saif must occupy the seat between Carmen
+and Theo.
+
+Case 55: Wedding Seating Puzzle
+Scenario:
+During a classroom debate in Mumbai, students Jiro, Saif, Luna, Luis, and Mina sit in a semicircle
+facing their teacher. Jiro is the host and must sit at the center. Saif prefers to sit at one end.
+Luna insists on sitting to Jiro's right. Luis and Mina cannot face each other. Hosts often use
+seating to balance rivalries and encourage cross-group conversation.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Saif sits between Jiro and Luna, so Jiro cannot be next to Luis; thus, Luis and Jiro are separated
+by Saif.
+
+Case 56: Roundtable Discussion
+Scenario:
+In Athens, a diplomatic roundtable features five delegates: Naomi, Sofia, Kai, Luna, and Ravi. Sofia
+must sit between Naomi and Kai. Luna must face Sofia. Ravi requests to sit beside Kai to share
+notes. Social logic replaces mathematical arrangement, ensuring comfort and cooperation.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Kai's left?
+
+Answer:
+Because Luna and Ravi are required to sit together, the person opposite them (Naomi) cannot be
+adjacent to Sofia.
+
+Case 57: Festival Jury Positions
+Scenario:
+In Athens, a diplomatic roundtable features five delegates: Fatima, Luna, Santiago, Nora, and
+Ibrahim. Fatima is the host and must sit at the center. Luna prefers to sit at one end. Santiago
+insists on sitting to Fatima's right. Nora and Ibrahim cannot face each other. These cases show that
+seating arrangements test empathy and perception more than arithmetic.
+
+Reasoning question:
+If Luna sits between Fatima and Santiago, who cannot be placed next to Nora?
+
+Answer:
+Given that Nora is to Ibrahim's left and Luna faces Fatima, Santiago must occupy the seat between
+Nora and Ibrahim.
+
+Case 58: Conference Harmony
+Scenario:
+In a company boardroom in Athens, executives Noah, Elara, Yara, Jiro, and Jonas are seated for an
+urgent meeting. Noah refuses to sit next to Elara. Yara must sit opposite Noah. Jiro and Jonas are
+close colleagues who insist on sitting together. Social logic replaces mathematical arrangement,
+ensuring comfort and cooperation.
+
+Reasoning question:
+Who ends up between Jiro and Jonas under these constraints?
+
+Answer:
+Given that Jiro is to Jonas's left and Elara faces Noah, Yara must occupy the seat between Jiro and
+Jonas.
+
+Case 59: Diplomatic Table Arrangement
+Scenario:
+In Barcelona, a diplomatic roundtable features five delegates: Jiro, Maya, Ada, Ava, and Ravi. Maya
+must sit between Jiro and Ada. Ava must face Maya. Ravi requests to sit beside Ada to share notes.
+Hosts often use seating to balance rivalries and encourage cross-group conversation.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Maya sits between Jiro and Ada, so Jiro cannot be next to Ava; thus, Ava and Jiro are separated by
+Maya.
+
+Case 60: Family Dinner Logic
+Scenario:
+A family gathering in Paris brings together Jiro, Sofia, Zara, Isha, and Nora around a circular
+dining table. Jiro is the host and must sit at the center. Sofia prefers to sit at one end. Zara
+insists on sitting to Jiro's right. Isha and Nora cannot face each other. Hosts often use seating to
+balance rivalries and encourage cross-group conversation.
+
+Reasoning question:
+Who ends up between Isha and Nora under these constraints?
+
+Answer:
+Because Isha and Nora are required to sit together, the person opposite them (Jiro) cannot be
+adjacent to Sofia.
+
+Case 61: Cultural Banquet Reasoning
+Scenario:
+During a classroom debate in Athens, students Isha, Santiago, Jonas, Luis, and Elara sit in a
+semicircle facing their teacher. Elara has to sit at an end because of camera placement. Isha and
+Santiago prefer to sit side by side. Jonas must be between Luis and Elara. Seating at such events
+often reflects not just proximity but diplomacy and hierarchy.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Given that Luis is to Elara's left and Santiago faces Isha, Jonas must occupy the seat between Luis
+and Elara.
+
+Case 62: Council Table Placement
+Scenario:
+A family gathering in Osaka brings together Omar, Zara, Fatima, Nora, and Ibrahim around a circular
+dining table. Omar and Fatima are from rival teams and must not be adjacent. Nora sits immediately
+to Ibrahim's left. The moderator insists that Zara face Omar. Seating at such events often reflects
+not just proximity but diplomacy and hierarchy.
+
+Reasoning question:
+If Zara sits between Omar and Fatima, who cannot be placed next to Nora?
+
+Answer:
+Given that Nora is to Ibrahim's left and Zara faces Omar, Fatima must occupy the seat between Nora
+and Ibrahim.
+
+Case 63: Festival Jury Positions
+Scenario:
+During a classroom debate in Barcelona, students Mina, Arjun, Jonas, Nikolai, and Ava sit in a
+semicircle facing their teacher. Ava has to sit at an end because of camera placement. Mina and
+Arjun prefer to sit side by side. Jonas must be between Nikolai and Ava. Hosts often use seating to
+balance rivalries and encourage cross-group conversation.
+
+Reasoning question:
+Who ends up between Nikolai and Ava under these constraints?
+
+Answer:
+Arjun sits between Mina and Jonas, so Mina cannot be next to Nikolai; thus, Nikolai and Mina are
+separated by Arjun.
+
+Case 64: Conference Harmony
+Scenario:
+During a classroom debate in Barcelona, students Theo, Kai, Yara, Fatima, and Santiago sit in a
+semicircle facing their teacher. Santiago has to sit at an end because of camera placement. Theo and
+Kai prefer to sit side by side. Yara must be between Fatima and Santiago. These cases show that
+seating arrangements test empathy and perception more than arithmetic.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Since Yara must face Theo, Yara sits directly opposite Theo. The others adjust around them
+respecting adjacency rules.
+
+Case 65: Boardroom Balance
+Scenario:
+In a company boardroom in Rome, executives Zara, Santiago, Fatima, Naomi, and Saif are seated for an
+urgent meeting. Zara refuses to sit next to Santiago. Fatima must sit opposite Zara. Naomi and Saif
+are close colleagues who insist on sitting together. Seating at such events often reflects not just
+proximity but diplomacy and hierarchy.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Fatima's left?
+
+Answer:
+Santiago sits between Zara and Fatima, so Zara cannot be next to Naomi; thus, Naomi and Zara are
+separated by Santiago.
+
+Case 66: Council Table Placement
+Scenario:
+During a classroom debate in Stockholm, students Maya, Lea, Saif, Daria, and Theo sit in a
+semicircle facing their teacher. Theo has to sit at an end because of camera placement. Maya and Lea
+prefer to sit side by side. Saif must be between Daria and Theo. Every adjustment reshapes who faces
+whom, showing how social reasoning governs placement.
+
+Reasoning question:
+Who ends up between Daria and Theo under these constraints?
+
+Answer:
+Since Maya and Lea sit together and Theo is isolated at an end, Saif must be next to Daria to
+balance the arrangement.
+
+Case 67: Diplomatic Table Arrangement
+Scenario:
+During a classroom debate in Geneva, students Kai, Mei, Luna, Noah, and Theo sit in a semicircle
+facing their teacher. Kai refuses to sit next to Mei. Luna must sit opposite Kai. Noah and Theo are
+close colleagues who insist on sitting together. Hosts often use seating to balance rivalries and
+encourage cross-group conversation.
+
+Reasoning question:
+If Mei sits between Kai and Luna, who cannot be placed next to Noah?
+
+Answer:
+Since Kai and Mei sit together and Theo is isolated at an end, Luna must be next to Noah to balance
+the arrangement.
+
+Case 68: Cultural Banquet Reasoning
+Scenario:
+At a film festival in London, jury members Lea, Saif, Omar, Hiro, and Kai must be seated for a group
+interview. Lea and Omar are from rival teams and must not be adjacent. Hiro sits immediately to
+Kai's left. The moderator insists that Saif face Lea. Every adjustment reshapes who faces whom,
+showing how social reasoning governs placement.
+
+Reasoning question:
+If Saif sits between Lea and Omar, who cannot be placed next to Hiro?
+
+Answer:
+Saif sits between Lea and Omar, so Lea cannot be next to Hiro; thus, Hiro and Lea are separated by
+Saif.
+
+Case 69: Cultural Banquet Reasoning
+Scenario:
+During a classroom debate in Helsinki, students Hana, Jiro, Mei, Tariq, and Maya sit in a semicircle
+facing their teacher. Hana is the host and must sit at the center. Jiro prefers to sit at one end.
+Mei insists on sitting to Hana's right. Tariq and Maya cannot face each other. Every adjustment
+reshapes who faces whom, showing how social reasoning governs placement.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Because Tariq and Maya are required to sit together, the person opposite them (Hana) cannot be
+adjacent to Jiro.
+
+Case 70: Family Dinner Logic
+Scenario:
+A family gathering in New York brings together Ada, Carmen, Saif, Noah, and Malia around a circular
+dining table. Ada and Saif are from rival teams and must not be adjacent. Noah sits immediately to
+Malia's left. The moderator insists that Carmen face Ada. Every adjustment reshapes who faces whom,
+showing how social reasoning governs placement.
+
+Reasoning question:
+Given these conditions, who must sit directly opposite Ada?
+
+Answer:
+Since Ada and Carmen sit together and Malia is isolated at an end, Saif must be next to Noah to
+balance the arrangement.
+
+Case 71: Family Dinner Logic
+Scenario:
+In a company boardroom in Toronto, executives Hana, Saif, Mei, Mina, and Isha are seated for an
+urgent meeting. Hana refuses to sit next to Saif. Mei must sit opposite Hana. Mina and Isha are
+close colleagues who insist on sitting together. These cases show that seating arrangements test
+empathy and perception more than arithmetic.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Mei's left?
+
+Answer:
+Since Hana and Saif sit together and Isha is isolated at an end, Mei must be next to Mina to balance
+the arrangement.
+
+Case 72: Wedding Seating Puzzle
+Scenario:
+During a classroom debate in Istanbul, students Omar, Jonas, Luis, Lea, and Nora sit in a semicircle
+facing their teacher. Omar and Luis are from rival teams and must not be adjacent. Lea sits
+immediately to Nora's left. The moderator insists that Jonas face Omar. Every adjustment reshapes
+who faces whom, showing how social reasoning governs placement.
+
+Reasoning question:
+Given these conditions, who must sit directly opposite Omar?
+
+Answer:
+Since Luis must face Omar, Luis sits directly opposite Omar. The others adjust around them
+respecting adjacency rules.
+
+Case 73: Family Dinner Logic
+Scenario:
+In a company boardroom in Geneva, executives Hana, Sofia, Ravi, Eli, and Nora are seated for an
+urgent meeting. Sofia must sit between Hana and Ravi. Eli must face Sofia. Nora requests to sit
+beside Ravi to share notes. Hosts often use seating to balance rivalries and encourage cross-group
+conversation.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Ravi's left?
+
+Answer:
+Since Ravi must face Hana, Ravi sits directly opposite Hana. The others adjust around them
+respecting adjacency rules.
+
+Case 74: Diplomatic Table Arrangement
+Scenario:
+During a classroom debate in London, students Luis, Omar, Daria, Maya, and Fatima sit in a
+semicircle facing their teacher. Fatima has to sit at an end because of camera placement. Luis and
+Omar prefer to sit side by side. Daria must be between Maya and Fatima. Every adjustment reshapes
+who faces whom, showing how social reasoning governs placement.
+
+Reasoning question:
+Given these conditions, who must sit directly opposite Luis?
+
+Answer:
+Because Maya and Fatima are required to sit together, the person opposite them (Luis) cannot be
+adjacent to Omar.
+
+Case 75: Roundtable Discussion
+Scenario:
+In Toronto, a diplomatic roundtable features five delegates: Zara, Nora, Lea, Mina, and Luis. Nora
+must sit between Zara and Lea. Mina must face Nora. Luis requests to sit beside Lea to share notes.
+Every adjustment reshapes who faces whom, showing how social reasoning governs placement.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Since Lea must face Zara, Lea sits directly opposite Zara. The others adjust around them respecting
+adjacency rules.
+
+Case 76: Wedding Seating Puzzle
+Scenario:
+In Lisbon, a diplomatic roundtable features five delegates: Naomi, Nora, Saif, Hana, and Malia.
+Malia has to sit at an end because of camera placement. Naomi and Nora prefer to sit side by side.
+Saif must be between Hana and Malia. These cases show that seating arrangements test empathy and
+perception more than arithmetic.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Saif's left?
+
+Answer:
+Because Hana and Malia are required to sit together, the person opposite them (Naomi) cannot be
+adjacent to Nora.
+
+Case 77: Family Dinner Logic
+Scenario:
+During a classroom debate in Zurich, students Zara, Hana, Maya, Ava, and Tariq sit in a semicircle
+facing their teacher. Tariq has to sit at an end because of camera placement. Zara and Hana prefer
+to sit side by side. Maya must be between Ava and Tariq. These cases show that seating arrangements
+test empathy and perception more than arithmetic.
+
+Reasoning question:
+Given these conditions, who must sit directly opposite Zara?
+
+Answer:
+Given that Ava is to Tariq's left and Hana faces Zara, Maya must occupy the seat between Ava and
+Tariq.
+
+Case 78: Diplomatic Table Arrangement
+Scenario:
+During a classroom debate in Paris, students Hana, Nora, Sofia, Jiro, and Hiro sit in a semicircle
+facing their teacher. Nora must sit between Hana and Sofia. Jiro must face Nora. Hiro requests to
+sit beside Sofia to share notes. Seating at such events often reflects not just proximity but
+diplomacy and hierarchy.
+
+Reasoning question:
+If Nora sits between Hana and Sofia, who cannot be placed next to Jiro?
+
+Answer:
+Given that Jiro is to Hiro's left and Nora faces Hana, Sofia must occupy the seat between Jiro and
+Hiro.
+
+Case 79: Boardroom Balance
+Scenario:
+A family gathering in Sydney brings together Lea, Luna, Saif, Hana, and Ada around a circular dining
+table. Luna must sit between Lea and Saif. Hana must face Luna. Ada requests to sit beside Saif to
+share notes. These cases show that seating arrangements test empathy and perception more than
+arithmetic.
+
+Reasoning question:
+If Luna sits between Lea and Saif, who cannot be placed next to Hana?
+
+Answer:
+Given that Hana is to Ada's left and Luna faces Lea, Saif must occupy the seat between Hana and Ada.
+
+Case 80: Ceremonial Arrangement
+Scenario:
+In a company boardroom in Barcelona, executives Ava, Carmen, Zara, Malia, and Tariq are seated for
+an urgent meeting. Carmen must sit between Ava and Zara. Malia must face Carmen. Tariq requests to
+sit beside Zara to share notes. Seating at such events often reflects not just proximity but
+diplomacy and hierarchy.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Carmen sits between Ava and Zara, so Ava cannot be next to Malia; thus, Malia and Ava are separated
+by Carmen.
+
+Case 81: Council Table Placement
+Scenario:
+In a company boardroom in Geneva, executives Eli, Hana, Omar, Carmen, and Elara are seated for an
+urgent meeting. Elara has to sit at an end because of camera placement. Eli and Hana prefer to sit
+side by side. Omar must be between Carmen and Elara. Hosts often use seating to balance rivalries
+and encourage cross-group conversation.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Because Carmen and Elara are required to sit together, the person opposite them (Eli) cannot be
+adjacent to Hana.
+
+Case 82: Festival Jury Positions
+Scenario:
+A family gathering in Geneva brings together Noah, Hiro, Ibrahim, Santiago, and Theo around a
+circular dining table. Noah and Ibrahim are from rival teams and must not be adjacent. Santiago sits
+immediately to Theo's left. The moderator insists that Hiro face Noah. These cases show that seating
+arrangements test empathy and perception more than arithmetic.
+
+Reasoning question:
+If Hiro sits between Noah and Ibrahim, who cannot be placed next to Santiago?
+
+Answer:
+Since Noah and Hiro sit together and Theo is isolated at an end, Ibrahim must be next to Santiago to
+balance the arrangement.
+
+Case 83: Ceremonial Arrangement
+Scenario:
+A family gathering in New York brings together Lea, Luna, Ava, Saif, and Elara around a circular
+dining table. Lea and Ava are from rival teams and must not be adjacent. Saif sits immediately to
+Elara's left. The moderator insists that Luna face Lea. Every adjustment reshapes who faces whom,
+showing how social reasoning governs placement.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Ava's left?
+
+Answer:
+Since Ava must face Lea, Ava sits directly opposite Lea. The others adjust around them respecting
+adjacency rules.
+
+Case 84: Wedding Seating Puzzle
+Scenario:
+In Toronto, a diplomatic roundtable features five delegates: Kai, Carmen, Ava, Daria, and Omar. Kai
+is the host and must sit at the center. Carmen prefers to sit at one end. Ava insists on sitting to
+Kai's right. Daria and Omar cannot face each other. Seating at such events often reflects not just
+proximity but diplomacy and hierarchy.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Ava's left?
+
+Answer:
+Given that Daria is to Omar's left and Carmen faces Kai, Ava must occupy the seat between Daria and
+Omar.
+
+Case 85: Council Table Placement
+Scenario:
+At a film festival in Rome, jury members Daria, Elara, Eli, Tariq, and Ada must be seated for a
+group interview. Elara must sit between Daria and Eli. Tariq must face Elara. Ada requests to sit
+beside Eli to share notes. These cases show that seating arrangements test empathy and perception
+more than arithmetic.
+
+Reasoning question:
+If Elara sits between Daria and Eli, who cannot be placed next to Tariq?
+
+Answer:
+Since Eli must face Daria, Eli sits directly opposite Daria. The others adjust around them
+respecting adjacency rules.
+
+Case 86: Ceremonial Arrangement
+Scenario:
+A family gathering in Geneva brings together Luis, Arjun, Nikolai, Yara, and Mei around a circular
+dining table. Luis refuses to sit next to Arjun. Nikolai must sit opposite Luis. Yara and Mei are
+close colleagues who insist on sitting together. Social logic replaces mathematical arrangement,
+ensuring comfort and cooperation.
+
+Reasoning question:
+If Arjun sits between Luis and Nikolai, who cannot be placed next to Yara?
+
+Answer:
+Given that Yara is to Mei's left and Arjun faces Luis, Nikolai must occupy the seat between Yara and
+Mei.
+
+Case 87: Council Table Placement
+Scenario:
+At a film festival in Cairo, jury members Naomi, Nikolai, Luis, Elara, and Carmen must be seated for
+a group interview. Nikolai must sit between Naomi and Luis. Elara must face Nikolai. Carmen requests
+to sit beside Luis to share notes. Social logic replaces mathematical arrangement, ensuring comfort
+and cooperation.
+
+Reasoning question:
+Who ends up between Elara and Carmen under these constraints?
+
+Answer:
+Because Elara and Carmen are required to sit together, the person opposite them (Naomi) cannot be
+adjacent to Nikolai.
+
+Case 88: Diplomatic Table Arrangement
+Scenario:
+In a company boardroom in Toronto, executives Maya, Sofia, Elara, Nora, and Isha are seated for an
+urgent meeting. Maya is the host and must sit at the center. Sofia prefers to sit at one end. Elara
+insists on sitting to Maya's right. Nora and Isha cannot face each other. Every adjustment reshapes
+who faces whom, showing how social reasoning governs placement.
+
+Reasoning question:
+Who ends up between Nora and Isha under these constraints?
+
+Answer:
+Given that Nora is to Isha's left and Sofia faces Maya, Elara must occupy the seat between Nora and
+Isha.
+
+Case 89: Council Table Placement
+Scenario:
+A family gathering in Seville brings together Elara, Maya, Jiro, Hiro, and Tariq around a circular
+dining table. Tariq has to sit at an end because of camera placement. Elara and Maya prefer to sit
+side by side. Jiro must be between Hiro and Tariq. These cases show that seating arrangements test
+empathy and perception more than arithmetic.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Maya sits between Elara and Jiro, so Elara cannot be next to Hiro; thus, Hiro and Elara are
+separated by Maya.
+
+Case 90: Conference Harmony
+Scenario:
+During a classroom debate in Sydney, students Fatima, Carmen, Saif, Yara, and Ava sit in a
+semicircle facing their teacher. Ava has to sit at an end because of camera placement. Fatima and
+Carmen prefer to sit side by side. Saif must be between Yara and Ava. These cases show that seating
+arrangements test empathy and perception more than arithmetic.
+
+Reasoning question:
+Who ends up between Yara and Ava under these constraints?
+
+Answer:
+Given that Yara is to Ava's left and Carmen faces Fatima, Saif must occupy the seat between Yara and
+Ava.
+
+Case 91: Festival Jury Positions
+Scenario:
+A family gathering in Berlin brings together Carmen, Fatima, Noah, Theo, and Hana around a circular
+dining table. Carmen is the host and must sit at the center. Fatima prefers to sit at one end. Noah
+insists on sitting to Carmen's right. Theo and Hana cannot face each other. Every adjustment
+reshapes who faces whom, showing how social reasoning governs placement.
+
+Reasoning question:
+Who ends up between Theo and Hana under these constraints?
+
+Answer:
+Since Carmen and Fatima sit together and Hana is isolated at an end, Noah must be next to Theo to
+balance the arrangement.
+
+Case 92: Wedding Seating Puzzle
+Scenario:
+In a company boardroom in Paris, executives Isha, Jiro, Sofia, Jonas, and Noah are seated for an
+urgent meeting. Isha refuses to sit next to Jiro. Sofia must sit opposite Isha. Jonas and Noah are
+close colleagues who insist on sitting together. Social logic replaces mathematical arrangement,
+ensuring comfort and cooperation.
+
+Reasoning question:
+Given these conditions, who must sit directly opposite Isha?
+
+Answer:
+Since Sofia must face Isha, Sofia sits directly opposite Isha. The others adjust around them
+respecting adjacency rules.
+
+Case 93: Boardroom Balance
+Scenario:
+A family gathering in New York brings together Santiago, Fatima, Saif, Theo, and Tariq around a
+circular dining table. Fatima must sit between Santiago and Saif. Theo must face Fatima. Tariq
+requests to sit beside Saif to share notes. Seating at such events often reflects not just proximity
+but diplomacy and hierarchy.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Saif's left?
+
+Answer:
+Since Saif must face Santiago, Saif sits directly opposite Santiago. The others adjust around them
+respecting adjacency rules.
+
+Case 94: Boardroom Balance
+Scenario:
+In a company boardroom in Cairo, executives Kai, Santiago, Tariq, Theo, and Sofia are seated for an
+urgent meeting. Kai and Tariq are from rival teams and must not be adjacent. Theo sits immediately
+to Sofia's left. The moderator insists that Santiago face Kai. Social logic replaces mathematical
+arrangement, ensuring comfort and cooperation.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Tariq's left?
+
+Answer:
+Since Kai and Santiago sit together and Sofia is isolated at an end, Tariq must be next to Theo to
+balance the arrangement.
+
+Case 95: Diplomatic Table Arrangement
+Scenario:
+In Lisbon, a diplomatic roundtable features five delegates: Fatima, Hana, Kai, Daria, and Santiago.
+Santiago has to sit at an end because of camera placement. Fatima and Hana prefer to sit side by
+side. Kai must be between Daria and Santiago. Seating at such events often reflects not just
+proximity but diplomacy and hierarchy.
+
+Reasoning question:
+Who ends up between Daria and Santiago under these constraints?
+
+Answer:
+Because Daria and Santiago are required to sit together, the person opposite them (Fatima) cannot be
+adjacent to Hana.
+
+Case 96: Wedding Seating Puzzle
+Scenario:
+During a classroom debate in Zurich, students Isha, Lea, Daria, Malia, and Ravi sit in a semicircle
+facing their teacher. Isha and Daria are from rival teams and must not be adjacent. Malia sits
+immediately to Ravi's left. The moderator insists that Lea face Isha. Seating at such events often
+reflects not just proximity but diplomacy and hierarchy.
+
+Reasoning question:
+According to the seating rules, who likely sits immediately to Daria's left?
+
+Answer:
+Since Daria must face Isha, Daria sits directly opposite Isha. The others adjust around them
+respecting adjacency rules.
+
+Case 97: Diplomatic Table Arrangement
+Scenario:
+A family gathering in Paris brings together Isha, Lea, Eli, Naomi, and Saif around a circular dining
+table. Isha and Eli are from rival teams and must not be adjacent. Naomi sits immediately to Saif's
+left. The moderator insists that Lea face Isha. Social logic replaces mathematical arrangement,
+ensuring comfort and cooperation.
+
+Reasoning question:
+Given these conditions, who must sit directly opposite Isha?
+
+Answer:
+Lea sits between Isha and Eli, so Isha cannot be next to Naomi; thus, Naomi and Isha are separated
+by Lea.
+
+Case 98: Ceremonial Arrangement
+Scenario:
+At a film festival in Barcelona, jury members Elara, Eli, Isha, Theo, and Yara must be seated for a
+group interview. Elara refuses to sit next to Eli. Isha must sit opposite Elara. Theo and Yara are
+close colleagues who insist on sitting together. These cases show that seating arrangements test
+empathy and perception more than arithmetic.
+
+Reasoning question:
+Who ends up between Theo and Yara under these constraints?
+
+Answer:
+Since Isha must face Elara, Isha sits directly opposite Elara. The others adjust around them
+respecting adjacency rules.
+
+Case 99: Council Table Placement
+Scenario:
+A family gathering in Rome brings together Mei, Isha, Elara, Yara, and Saif around a circular dining
+table. Saif has to sit at an end because of camera placement. Mei and Isha prefer to sit side by
+side. Elara must be between Yara and Saif. Seating at such events often reflects not just proximity
+but diplomacy and hierarchy.
+
+Reasoning question:
+Who ends up between Yara and Saif under these constraints?
+
+Answer:
+Isha sits between Mei and Elara, so Mei cannot be next to Yara; thus, Yara and Mei are separated by
+Isha.
+
+Case 100: Conference Harmony
+Scenario:
+At a film festival in Seville, jury members Eli, Saif, Santiago, Arjun, and Tariq must be seated for
+a group interview. Eli is the host and must sit at the center. Saif prefers to sit at one end.
+Santiago insists on sitting to Eli's right. Arjun and Tariq cannot face each other. Social logic
+replaces mathematical arrangement, ensuring comfort and cooperation.
+
+Reasoning question:
+Which two people must sit together to satisfy all preferences?
+
+Answer:
+Given that Arjun is to Tariq's left and Saif faces Eli, Santiago must occupy the seat between Arjun
+and Tariq.
+

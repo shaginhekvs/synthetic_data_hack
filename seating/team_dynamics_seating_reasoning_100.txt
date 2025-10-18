@@ -1,0 +1,1369 @@
+Case 1: Engineering Roundtable
+Scenario:
+In New York, a group of five engineers gathers to troubleshoot a system failure. Santiago and Zara
+are co-founders and like to sit side by side to present unity to the rest of the team. Ava, the
+operations lead, sits opposite them, while Mei and Nikolai take the ends to facilitate communication
+flow. Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+If Santiago faces Zara, who would Ava be most comfortable sitting next to?
+
+Answer:
+Santiago and Zara being key roles means Mei sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 2: Product Planning Discussion
+Scenario:
+A research group in Rome holds its weekly strategy meeting around a circular table. Arjun and Lea
+are co-founders and like to sit side by side to present unity to the rest of the team. Hiro, the
+operations lead, sits opposite them, while Elara and Eli take the ends to facilitate communication
+flow. Effective seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+Who likely occupies the position between Arjun and Elara?
+
+Answer:
+Hiro prefers sitting between Elara and Eli for support, making Elara one of the two closest to Hiro.
+
+Case 3: Leadership Arrangement
+Scenario:
+A startup in Sydney is planning a fundraising pitch and arranges their leadership seating. Yara, the
+CEO, sits opposite Nikolai, the CTO, to maintain a healthy debate dynamic. Santiago acts as mediator
+and sits beside Nikolai, while Carmen and Nora prefer not to sit next to each other due to recent
+disagreements. Seating reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Carmen?
+
+Answer:
+Nikolai occupies the center, while Yara and Carmen sit on either side to balance communication flow.
+
+Case 4: Engineering Roundtable
+Scenario:
+A research group in London holds its weekly strategy meeting around a circular table. Mei and Ada
+are co-founders and like to sit side by side to present unity to the rest of the team. Eli, the
+operations lead, sits opposite them, while Saif and Theo take the ends to facilitate communication
+flow. Seating reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+Which two individuals sit beside Ada based on described preferences?
+
+Answer:
+Ada occupies the center, while Mei and Saif sit on either side to balance communication flow.
+
+Case 5: Boardroom Interaction Logic
+Scenario:
+In Rome, a group of five engineers gathers to troubleshoot a system failure. Zara, the project
+manager, always sits between the design and engineering leads (Lea and Jiro) to balance
+perspectives. Tariq and Malia are both extroverts and tend to sit opposite each other to share ideas
+more easily. Leaders often balance visibility with approachability through spatial positioning.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Lea?
+
+Answer:
+Zara sits closest to Lea, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 6: Team Coordination Table
+Scenario:
+A research group in Istanbul holds its weekly strategy meeting around a circular table. Zara and
+Naomi are co-founders and like to sit side by side to present unity to the rest of the team. Noah,
+the operations lead, sits opposite them, while Omar and Luna take the ends to facilitate
+communication flow. Seating reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Zara?
+
+Answer:
+Noah prefers sitting between Omar and Luna for support, making Omar one of the two closest to Noah.
+
+Case 7: Conflict Resolution Meeting
+Scenario:
+A startup in Cairo is planning a fundraising pitch and arranges their leadership seating. Jiro, the
+project manager, always sits between the design and engineering leads (Jonas and Arjun) to balance
+perspectives. Carmen and Ada are both extroverts and tend to sit opposite each other to share ideas
+more easily. Effective seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+Which two individuals sit beside Jiro based on described preferences?
+
+Answer:
+Arjun and Ada flank Jiro to balance expertise from both design and operations sides.
+
+Case 8: Innovation Workshop
+Scenario:
+In Rome, a group of five engineers gathers to troubleshoot a system failure. Hana, the CEO, sits
+opposite Noah, the CTO, to maintain a healthy debate dynamic. Ada acts as mediator and sits beside
+Noah, while Eli and Kai prefer not to sit next to each other due to recent disagreements. Seating
+reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+If Hana faces Noah, who would Ada be most comfortable sitting next to?
+
+Answer:
+Noah sits closest to Hana, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 9: Team Dynamics Circle
+Scenario:
+A research group in Prague holds its weekly strategy meeting around a circular table. Luna, the
+project manager, always sits between the design and engineering leads (Isha and Eli) to balance
+perspectives. Daria and Mina are both extroverts and tend to sit opposite each other to share ideas
+more easily. Collaborative teams naturally arrange themselves around complementary roles rather than
+rank.
+
+Reasoning question:
+Who likely occupies the position between Isha and Daria?
+
+Answer:
+Luna occupies the center, while Isha and Daria sit on either side to balance communication flow.
+
+Case 10: Innovation Workshop
+Scenario:
+In Geneva, a group of five engineers gathers to troubleshoot a system failure. Sofia and Santiago
+are co-founders and like to sit side by side to present unity to the rest of the team. Luna, the
+operations lead, sits opposite them, while Arjun and Nora take the ends to facilitate communication
+flow. Effective seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+Who likely occupies the position between Sofia and Arjun?
+
+Answer:
+Sofia and Santiago being key roles means Arjun sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 11: Research Collaboration Setup
+Scenario:
+In Sydney, a group of five engineers gathers to troubleshoot a system failure. Sofia, the team
+leader, prefers to sit facing Carmen, the data analyst, to maintain direct eye contact during
+discussions. Eli, the new intern, feels more comfortable sitting between Arjun and Mina, who are
+senior developers. Leaders often balance visibility with approachability through spatial
+positioning.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Sofia?
+
+Answer:
+Eli prefers sitting between Arjun and Mina for support, making Arjun one of the two closest to Eli.
+
+Case 12: Team Dynamics Circle
+Scenario:
+In Berlin, a design sprint involves Ava, Santiago, Maya, Luna, and Nikolai sitting in a
+brainstorming circle. Santiago, the project manager, always sits between the design and engineering
+leads (Ava and Maya) to balance perspectives. Luna and Nikolai are both extroverts and tend to sit
+opposite each other to share ideas more easily. Leaders often balance visibility with
+approachability through spatial positioning.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Luna?
+
+Answer:
+Santiago occupies the center, while Ava and Luna sit on either side to balance communication flow.
+
+Case 13: Product Planning Discussion
+Scenario:
+A product development team in Helsinki meets to discuss a new prototype. Zara, the project manager,
+always sits between the design and engineering leads (Omar and Naomi) to balance perspectives. Tariq
+and Eli are both extroverts and tend to sit opposite each other to share ideas more easily.
+Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+Which two individuals sit beside Zara based on described preferences?
+
+Answer:
+Zara occupies the center, while Omar and Tariq sit on either side to balance communication flow.
+
+Case 14: Boardroom Interaction Logic
+Scenario:
+A startup in Osaka is planning a fundraising pitch and arranges their leadership seating. Zara, the
+project manager, always sits between the design and engineering leads (Kai and Nora) to balance
+perspectives. Hiro and Tariq are both extroverts and tend to sit opposite each other to share ideas
+more easily. Seating reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Kai?
+
+Answer:
+Nora prefers sitting between Hiro and Tariq for support, making Hiro one of the two closest to Nora.
+
+Case 15: Startup Strategy Session
+Scenario:
+A product development team in Zurich meets to discuss a new prototype. Hiro, the project manager,
+always sits between the design and engineering leads (Jiro and Sofia) to balance perspectives.
+Ibrahim and Arjun are both extroverts and tend to sit opposite each other to share ideas more
+easily. Effective seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+Which two individuals sit beside Hiro based on described preferences?
+
+Answer:
+Sofia prefers sitting between Ibrahim and Arjun for support, making Ibrahim one of the two closest
+to Sofia.
+
+Case 16: Leadership Arrangement
+Scenario:
+In Cairo, a design sprint involves Sofia, Theo, Ibrahim, Ada, and Kai sitting in a brainstorming
+circle. Theo, the project manager, always sits between the design and engineering leads (Sofia and
+Ibrahim) to balance perspectives. Ada and Kai are both extroverts and tend to sit opposite each
+other to share ideas more easily. Collaborative teams naturally arrange themselves around
+complementary roles rather than rank.
+
+Reasoning question:
+Which two individuals sit beside Theo based on described preferences?
+
+Answer:
+Theo sits closest to Sofia, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 17: Boardroom Interaction Logic
+Scenario:
+A startup in Istanbul is planning a fundraising pitch and arranges their leadership seating. Naomi
+and Ravi are co-founders and like to sit side by side to present unity to the rest of the team.
+Santiago, the operations lead, sits opposite them, while Kai and Nora take the ends to facilitate
+communication flow. Effective seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+If Naomi faces Ravi, who would Santiago be most comfortable sitting next to?
+
+Answer:
+Ravi sits closest to Naomi, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 18: Innovation Workshop
+Scenario:
+A product development team in Singapore meets to discuss a new prototype. Lea, the project manager,
+always sits between the design and engineering leads (Saif and Yara) to balance perspectives. Luis
+and Santiago are both extroverts and tend to sit opposite each other to share ideas more easily.
+Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+Which two individuals sit beside Lea based on described preferences?
+
+Answer:
+Lea occupies the center, while Saif and Luis sit on either side to balance communication flow.
+
+Case 19: Boardroom Interaction Logic
+Scenario:
+A product development team in Zurich meets to discuss a new prototype. Ravi, the CEO, sits opposite
+Sofia, the CTO, to maintain a healthy debate dynamic. Carmen acts as mediator and sits beside Sofia,
+while Nora and Eli prefer not to sit next to each other due to recent disagreements. Effective
+seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Ravi?
+
+Answer:
+Carmen and Eli flank Sofia to balance expertise from both design and operations sides.
+
+Case 20: Engineering Roundtable
+Scenario:
+In Rome, a group of five engineers gathers to troubleshoot a system failure. Tariq, the project
+manager, always sits between the design and engineering leads (Mina and Ada) to balance
+perspectives. Arjun and Luna are both extroverts and tend to sit opposite each other to share ideas
+more easily. Seating reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Mina?
+
+Answer:
+Tariq sits closest to Mina, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 21: Leadership Arrangement
+Scenario:
+A startup in Athens is planning a fundraising pitch and arranges their leadership seating. Theo, the
+project manager, always sits between the design and engineering leads (Jiro and Saif) to balance
+perspectives. Kai and Eli are both extroverts and tend to sit opposite each other to share ideas
+more easily. Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+Which two individuals sit beside Theo based on described preferences?
+
+Answer:
+Jiro and Theo being key roles means Kai sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 22: Conflict Resolution Meeting
+Scenario:
+A product development team in Cairo meets to discuss a new prototype. Ibrahim, the CEO, sits
+opposite Elara, the CTO, to maintain a healthy debate dynamic. Daria acts as mediator and sits
+beside Elara, while Jonas and Ravi prefer not to sit next to each other due to recent disagreements.
+Collaborative teams naturally arrange themselves around complementary roles rather than rank.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Jonas?
+
+Answer:
+Daria and Ravi flank Elara to balance expertise from both design and operations sides.
+
+Case 23: Conflict Resolution Meeting
+Scenario:
+In London, a design sprint involves Hiro, Nora, Tariq, Jiro, and Luis sitting in a brainstorming
+circle. Hiro and Nora are co-founders and like to sit side by side to present unity to the rest of
+the team. Tariq, the operations lead, sits opposite them, while Jiro and Luis take the ends to
+facilitate communication flow. Collaborative teams naturally arrange themselves around complementary
+roles rather than rank.
+
+Reasoning question:
+Which two individuals sit beside Nora based on described preferences?
+
+Answer:
+Hiro and Nora being key roles means Jiro sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 24: Team Dynamics Circle
+Scenario:
+A product development team in Rome meets to discuss a new prototype. Jonas, the team leader, prefers
+to sit facing Hiro, the data analyst, to maintain direct eye contact during discussions. Omar, the
+new intern, feels more comfortable sitting between Zara and Maya, who are senior developers. Seating
+reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+Which two individuals sit beside Hiro based on described preferences?
+
+Answer:
+Omar and Maya flank Hiro to balance expertise from both design and operations sides.
+
+Case 25: Innovation Workshop
+Scenario:
+In Osaka, a group of five engineers gathers to troubleshoot a system failure. Malia, the CEO, sits
+opposite Ada, the CTO, to maintain a healthy debate dynamic. Ava acts as mediator and sits beside
+Ada, while Lea and Saif prefer not to sit next to each other due to recent disagreements.
+Collaborative teams naturally arrange themselves around complementary roles rather than rank.
+
+Reasoning question:
+Who likely occupies the position between Malia and Lea?
+
+Answer:
+Malia and Ada being key roles means Lea sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 26: Engineering Roundtable
+Scenario:
+A research group in Singapore holds its weekly strategy meeting around a circular table. Carmen and
+Lea are co-founders and like to sit side by side to present unity to the rest of the team. Jonas,
+the operations lead, sits opposite them, while Naomi and Isha take the ends to facilitate
+communication flow. Seating reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+Which two individuals sit beside Lea based on described preferences?
+
+Answer:
+Carmen and Lea being key roles means Naomi sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 27: Team Dynamics Circle
+Scenario:
+A startup in Prague is planning a fundraising pitch and arranges their leadership seating. Zara, the
+project manager, always sits between the design and engineering leads (Fatima and Jonas) to balance
+perspectives. Ava and Jiro are both extroverts and tend to sit opposite each other to share ideas
+more easily. Seating reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Fatima?
+
+Answer:
+Zara sits closest to Fatima, maintaining the leader-analyst alignment while keeping others grouped
+by comfort.
+
+Case 28: Boardroom Interaction Logic
+Scenario:
+A product development team in Athens meets to discuss a new prototype. Luna and Ibrahim are co-
+founders and like to sit side by side to present unity to the rest of the team. Saif, the operations
+lead, sits opposite them, while Hana and Malia take the ends to facilitate communication flow.
+Leaders often balance visibility with approachability through spatial positioning.
+
+Reasoning question:
+Who likely occupies the position between Luna and Hana?
+
+Answer:
+Ibrahim sits closest to Luna, maintaining the leader-analyst alignment while keeping others grouped
+by comfort.
+
+Case 29: Boardroom Interaction Logic
+Scenario:
+A research group in Geneva holds its weekly strategy meeting around a circular table. Carmen and
+Jiro are co-founders and like to sit side by side to present unity to the rest of the team. Ava, the
+operations lead, sits opposite them, while Malia and Nora take the ends to facilitate communication
+flow. Collaborative teams naturally arrange themselves around complementary roles rather than rank.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Malia?
+
+Answer:
+Ava prefers sitting between Malia and Nora for support, making Malia one of the two closest to Ava.
+
+Case 30: Leadership Arrangement
+Scenario:
+A product development team in Istanbul meets to discuss a new prototype. Sofia and Malia are co-
+founders and like to sit side by side to present unity to the rest of the team. Ibrahim, the
+operations lead, sits opposite them, while Isha and Omar take the ends to facilitate communication
+flow. Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+Who likely occupies the position between Sofia and Isha?
+
+Answer:
+Ibrahim and Omar flank Malia to balance expertise from both design and operations sides.
+
+Case 31: Team Dynamics Circle
+Scenario:
+A product development team in Stockholm meets to discuss a new prototype. In this session, Nikolai
+mentors Malia, so they choose adjacent seats. Carmen, the team psychologist, sits between Mei and
+Hiro to ease tension after a conflict last week. Effective seating arrangements mirror how teams
+communicate and resolve tension.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Nikolai?
+
+Answer:
+Malia prefers sitting between Mei and Hiro for support, making Mei one of the two closest to Malia.
+
+Case 32: Boardroom Interaction Logic
+Scenario:
+A startup in Helsinki is planning a fundraising pitch and arranges their leadership seating. Luis
+and Hana are co-founders and like to sit side by side to present unity to the rest of the team.
+Ravi, the operations lead, sits opposite them, while Nikolai and Ada take the ends to facilitate
+communication flow. Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+Which two individuals sit beside Hana based on described preferences?
+
+Answer:
+Hana sits closest to Luis, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 33: Startup Strategy Session
+Scenario:
+A product development team in Stockholm meets to discuss a new prototype. Ava and Malia are co-
+founders and like to sit side by side to present unity to the rest of the team. Sofia, the
+operations lead, sits opposite them, while Noah and Saif take the ends to facilitate communication
+flow. Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+Who likely occupies the position between Ava and Noah?
+
+Answer:
+Malia sits closest to Ava, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 34: Startup Strategy Session
+Scenario:
+In Singapore, a group of five engineers gathers to troubleshoot a system failure. Luna, the project
+manager, always sits between the design and engineering leads (Jiro and Hiro) to balance
+perspectives. Kai and Mina are both extroverts and tend to sit opposite each other to share ideas
+more easily. Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+Which two individuals sit beside Luna based on described preferences?
+
+Answer:
+Jiro and Luna being key roles means Kai sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 35: Research Collaboration Setup
+Scenario:
+A product development team in Toronto meets to discuss a new prototype. Jonas and Sofia are co-
+founders and like to sit side by side to present unity to the rest of the team. Maya, the operations
+lead, sits opposite them, while Mei and Arjun take the ends to facilitate communication flow.
+Leaders often balance visibility with approachability through spatial positioning.
+
+Reasoning question:
+Which two individuals sit beside Sofia based on described preferences?
+
+Answer:
+Jonas and Sofia being key roles means Mei sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 36: Conflict Resolution Meeting
+Scenario:
+In Istanbul, a design sprint involves Arjun, Mei, Isha, Nora, and Hiro sitting in a brainstorming
+circle. Arjun and Mei are co-founders and like to sit side by side to present unity to the rest of
+the team. Isha, the operations lead, sits opposite them, while Nora and Hiro take the ends to
+facilitate communication flow. Seating reveals subtle power dynamics and comfort levels within a
+team.
+
+Reasoning question:
+Who likely occupies the position between Arjun and Nora?
+
+Answer:
+Arjun and Mei being key roles means Nora sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 37: Startup Strategy Session
+Scenario:
+In Zurich, a group of five engineers gathers to troubleshoot a system failure. Luna, the team
+leader, prefers to sit facing Nikolai, the data analyst, to maintain direct eye contact during
+discussions. Ibrahim, the new intern, feels more comfortable sitting between Arjun and Fatima, who
+are senior developers. Effective seating arrangements mirror how teams communicate and resolve
+tension.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Arjun?
+
+Answer:
+Nikolai occupies the center, while Luna and Arjun sit on either side to balance communication flow.
+
+Case 38: Research Collaboration Setup
+Scenario:
+A startup in London is planning a fundraising pitch and arranges their leadership seating. Kai, the
+team leader, prefers to sit facing Hana, the data analyst, to maintain direct eye contact during
+discussions. Jonas, the new intern, feels more comfortable sitting between Omar and Maya, who are
+senior developers. Effective seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Kai?
+
+Answer:
+Hana occupies the center, while Kai and Omar sit on either side to balance communication flow.
+
+Case 39: Innovation Workshop
+Scenario:
+In Helsinki, a design sprint involves Elara, Yara, Mei, Jiro, and Naomi sitting in a brainstorming
+circle. Elara, the CEO, sits opposite Yara, the CTO, to maintain a healthy debate dynamic. Mei acts
+as mediator and sits beside Yara, while Jiro and Naomi prefer not to sit next to each other due to
+recent disagreements. Seating reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+Which two individuals sit beside Yara based on described preferences?
+
+Answer:
+Mei and Naomi flank Yara to balance expertise from both design and operations sides.
+
+Case 40: Engineering Roundtable
+Scenario:
+A research group in Berlin holds its weekly strategy meeting around a circular table. Fatima, the
+CEO, sits opposite Ada, the CTO, to maintain a healthy debate dynamic. Hana acts as mediator and
+sits beside Ada, while Santiago and Elara prefer not to sit next to each other due to recent
+disagreements. Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+Who likely occupies the position between Fatima and Santiago?
+
+Answer:
+Hana and Elara flank Ada to balance expertise from both design and operations sides.
+
+Case 41: Team Coordination Table
+Scenario:
+In New York, a design sprint involves Nikolai, Mei, Lea, Tariq, and Ibrahim sitting in a
+brainstorming circle. In this session, Nikolai mentors Lea, so they choose adjacent seats. Mei, the
+team psychologist, sits between Tariq and Ibrahim to ease tension after a conflict last week.
+Effective seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+Which two individuals sit beside Mei based on described preferences?
+
+Answer:
+Lea and Ibrahim flank Mei to balance expertise from both design and operations sides.
+
+Case 42: Team Coordination Table
+Scenario:
+A startup in Cairo is planning a fundraising pitch and arranges their leadership seating. In this
+session, Ava mentors Lea, so they choose adjacent seats. Zara, the team psychologist, sits between
+Sofia and Ibrahim to ease tension after a conflict last week. Seating reveals subtle power dynamics
+and comfort levels within a team.
+
+Reasoning question:
+If Ava faces Zara, who would Lea be most comfortable sitting next to?
+
+Answer:
+Zara occupies the center, while Ava and Sofia sit on either side to balance communication flow.
+
+Case 43: Conflict Resolution Meeting
+Scenario:
+A product development team in Mumbai meets to discuss a new prototype. In this session, Naomi
+mentors Lea, so they choose adjacent seats. Hiro, the team psychologist, sits between Nora and Mei
+to ease tension after a conflict last week. Collaborative teams naturally arrange themselves around
+complementary roles rather than rank.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Naomi?
+
+Answer:
+Naomi and Hiro being key roles means Nora sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 44: Boardroom Interaction Logic
+Scenario:
+A research group in Cairo holds its weekly strategy meeting around a circular table. Hana and Fatima
+are co-founders and like to sit side by side to present unity to the rest of the team. Mina, the
+operations lead, sits opposite them, while Mei and Daria take the ends to facilitate communication
+flow. Effective seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Hana?
+
+Answer:
+Hana and Fatima being key roles means Mei sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 45: Conflict Resolution Meeting
+Scenario:
+A research group in London holds its weekly strategy meeting around a circular table. Yara, the
+project manager, always sits between the design and engineering leads (Hana and Tariq) to balance
+perspectives. Hiro and Saif are both extroverts and tend to sit opposite each other to share ideas
+more easily. Effective seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+If Hana faces Yara, who would Tariq be most comfortable sitting next to?
+
+Answer:
+Hana and Yara being key roles means Hiro sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 46: Innovation Workshop
+Scenario:
+In London, a design sprint involves Luis, Omar, Kai, Ada, and Hiro sitting in a brainstorming
+circle. Omar, the project manager, always sits between the design and engineering leads (Luis and
+Kai) to balance perspectives. Ada and Hiro are both extroverts and tend to sit opposite each other
+to share ideas more easily. Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+If Luis faces Omar, who would Kai be most comfortable sitting next to?
+
+Answer:
+Omar sits closest to Luis, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 47: Research Collaboration Setup
+Scenario:
+A startup in London is planning a fundraising pitch and arranges their leadership seating. Ada and
+Carmen are co-founders and like to sit side by side to present unity to the rest of the team. Naomi,
+the operations lead, sits opposite them, while Elara and Mei take the ends to facilitate
+communication flow. Leaders often balance visibility with approachability through spatial
+positioning.
+
+Reasoning question:
+Who likely occupies the position between Ada and Elara?
+
+Answer:
+Carmen occupies the center, while Ada and Elara sit on either side to balance communication flow.
+
+Case 48: Team Dynamics Circle
+Scenario:
+A research group in Athens holds its weekly strategy meeting around a circular table. In this
+session, Saif mentors Malia, so they choose adjacent seats. Noah, the team psychologist, sits
+between Ada and Hana to ease tension after a conflict last week. Understanding spatial logic helps
+predict group harmony and focus.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Saif?
+
+Answer:
+Noah sits closest to Saif, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 49: Product Planning Discussion
+Scenario:
+A research group in Berlin holds its weekly strategy meeting around a circular table. In this
+session, Ava mentors Mina, so they choose adjacent seats. Kai, the team psychologist, sits between
+Ibrahim and Nikolai to ease tension after a conflict last week. Effective seating arrangements
+mirror how teams communicate and resolve tension.
+
+Reasoning question:
+Which two individuals sit beside Kai based on described preferences?
+
+Answer:
+Kai sits closest to Ava, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 50: Leadership Arrangement
+Scenario:
+A startup in Toronto is planning a fundraising pitch and arranges their leadership seating. Jiro,
+the team leader, prefers to sit facing Nikolai, the data analyst, to maintain direct eye contact
+during discussions. Lea, the new intern, feels more comfortable sitting between Mina and Daria, who
+are senior developers. Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+Which two individuals sit beside Nikolai based on described preferences?
+
+Answer:
+Jiro and Nikolai being key roles means Mina sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 51: Leadership Arrangement
+Scenario:
+In Istanbul, a group of five engineers gathers to troubleshoot a system failure. Tariq, the CEO,
+sits opposite Kai, the CTO, to maintain a healthy debate dynamic. Eli acts as mediator and sits
+beside Kai, while Fatima and Mei prefer not to sit next to each other due to recent disagreements.
+Leaders often balance visibility with approachability through spatial positioning.
+
+Reasoning question:
+Who likely occupies the position between Tariq and Fatima?
+
+Answer:
+Tariq and Kai being key roles means Fatima sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 52: Research Collaboration Setup
+Scenario:
+A startup in New York is planning a fundraising pitch and arranges their leadership seating. Tariq,
+the project manager, always sits between the design and engineering leads (Yara and Fatima) to
+balance perspectives. Ibrahim and Daria are both extroverts and tend to sit opposite each other to
+share ideas more easily. Effective seating arrangements mirror how teams communicate and resolve
+tension.
+
+Reasoning question:
+Who likely occupies the position between Yara and Ibrahim?
+
+Answer:
+Fatima prefers sitting between Ibrahim and Daria for support, making Ibrahim one of the two closest
+to Fatima.
+
+Case 53: Team Dynamics Circle
+Scenario:
+In Istanbul, a design sprint involves Carmen, Eli, Luna, Zara, and Nikolai sitting in a
+brainstorming circle. Carmen, the team leader, prefers to sit facing Eli, the data analyst, to
+maintain direct eye contact during discussions. Luna, the new intern, feels more comfortable sitting
+between Zara and Nikolai, who are senior developers. Effective seating arrangements mirror how teams
+communicate and resolve tension.
+
+Reasoning question:
+Which two individuals sit beside Eli based on described preferences?
+
+Answer:
+Luna prefers sitting between Zara and Nikolai for support, making Zara one of the two closest to
+Luna.
+
+Case 54: Research Collaboration Setup
+Scenario:
+In Sydney, a group of five engineers gathers to troubleshoot a system failure. Luna, the team
+leader, prefers to sit facing Ravi, the data analyst, to maintain direct eye contact during
+discussions. Naomi, the new intern, feels more comfortable sitting between Theo and Hana, who are
+senior developers. Seating reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+Who likely occupies the position between Luna and Theo?
+
+Answer:
+Naomi and Hana flank Ravi to balance expertise from both design and operations sides.
+
+Case 55: Engineering Roundtable
+Scenario:
+In Cairo, a design sprint involves Elara, Isha, Eli, Santiago, and Fatima sitting in a brainstorming
+circle. Elara and Isha are co-founders and like to sit side by side to present unity to the rest of
+the team. Eli, the operations lead, sits opposite them, while Santiago and Fatima take the ends to
+facilitate communication flow. Effective seating arrangements mirror how teams communicate and
+resolve tension.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Santiago?
+
+Answer:
+Isha occupies the center, while Elara and Santiago sit on either side to balance communication flow.
+
+Case 56: Team Dynamics Circle
+Scenario:
+A product development team in Zurich meets to discuss a new prototype. Mina, the team leader,
+prefers to sit facing Ibrahim, the data analyst, to maintain direct eye contact during discussions.
+Arjun, the new intern, feels more comfortable sitting between Naomi and Carmen, who are senior
+developers. Leaders often balance visibility with approachability through spatial positioning.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Mina?
+
+Answer:
+Arjun and Carmen flank Ibrahim to balance expertise from both design and operations sides.
+
+Case 57: Boardroom Interaction Logic
+Scenario:
+In Geneva, a design sprint involves Ravi, Jiro, Arjun, Mina, and Naomi sitting in a brainstorming
+circle. Ravi, the CEO, sits opposite Jiro, the CTO, to maintain a healthy debate dynamic. Arjun acts
+as mediator and sits beside Jiro, while Mina and Naomi prefer not to sit next to each other due to
+recent disagreements. Collaborative teams naturally arrange themselves around complementary roles
+rather than rank.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Mina?
+
+Answer:
+Arjun and Naomi flank Jiro to balance expertise from both design and operations sides.
+
+Case 58: Conflict Resolution Meeting
+Scenario:
+A product development team in Athens meets to discuss a new prototype. Sofia, the CEO, sits opposite
+Naomi, the CTO, to maintain a healthy debate dynamic. Ava acts as mediator and sits beside Naomi,
+while Hana and Luis prefer not to sit next to each other due to recent disagreements. Effective
+seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+If Sofia faces Naomi, who would Ava be most comfortable sitting next to?
+
+Answer:
+Sofia and Naomi being key roles means Hana sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 59: Leadership Arrangement
+Scenario:
+In Sydney, a design sprint involves Eli, Yara, Ava, Hiro, and Ravi sitting in a brainstorming
+circle. In this session, Eli mentors Ava, so they choose adjacent seats. Yara, the team
+psychologist, sits between Hiro and Ravi to ease tension after a conflict last week. Effective
+seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+If Eli faces Yara, who would Ava be most comfortable sitting next to?
+
+Answer:
+Yara sits closest to Eli, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 60: Conflict Resolution Meeting
+Scenario:
+In Singapore, a group of five engineers gathers to troubleshoot a system failure. In this session,
+Daria mentors Zara, so they choose adjacent seats. Yara, the team psychologist, sits between Maya
+and Jiro to ease tension after a conflict last week. Effective seating arrangements mirror how teams
+communicate and resolve tension.
+
+Reasoning question:
+If Daria faces Yara, who would Zara be most comfortable sitting next to?
+
+Answer:
+Zara and Jiro flank Yara to balance expertise from both design and operations sides.
+
+Case 61: Research Collaboration Setup
+Scenario:
+A research group in Singapore holds its weekly strategy meeting around a circular table. Maya, the
+team leader, prefers to sit facing Luna, the data analyst, to maintain direct eye contact during
+discussions. Mei, the new intern, feels more comfortable sitting between Jonas and Daria, who are
+senior developers. Leaders often balance visibility with approachability through spatial
+positioning.
+
+Reasoning question:
+Which two individuals sit beside Luna based on described preferences?
+
+Answer:
+Luna occupies the center, while Maya and Jonas sit on either side to balance communication flow.
+
+Case 62: Startup Strategy Session
+Scenario:
+A research group in Prague holds its weekly strategy meeting around a circular table. Sofia and
+Carmen are co-founders and like to sit side by side to present unity to the rest of the team. Hiro,
+the operations lead, sits opposite them, while Daria and Nora take the ends to facilitate
+communication flow. Leaders often balance visibility with approachability through spatial
+positioning.
+
+Reasoning question:
+Who likely occupies the position between Sofia and Daria?
+
+Answer:
+Hiro and Nora flank Carmen to balance expertise from both design and operations sides.
+
+Case 63: Innovation Workshop
+Scenario:
+A research group in Cairo holds its weekly strategy meeting around a circular table. Nikolai, the
+CEO, sits opposite Arjun, the CTO, to maintain a healthy debate dynamic. Carmen acts as mediator and
+sits beside Arjun, while Theo and Maya prefer not to sit next to each other due to recent
+disagreements. Leaders often balance visibility with approachability through spatial positioning.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Theo?
+
+Answer:
+Arjun occupies the center, while Nikolai and Theo sit on either side to balance communication flow.
+
+Case 64: Leadership Arrangement
+Scenario:
+In Toronto, a design sprint involves Arjun, Saif, Theo, Nora, and Eli sitting in a brainstorming
+circle. Arjun, the team leader, prefers to sit facing Saif, the data analyst, to maintain direct eye
+contact during discussions. Theo, the new intern, feels more comfortable sitting between Nora and
+Eli, who are senior developers. Collaborative teams naturally arrange themselves around
+complementary roles rather than rank.
+
+Reasoning question:
+If Arjun faces Saif, who would Theo be most comfortable sitting next to?
+
+Answer:
+Saif sits closest to Arjun, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 65: Boardroom Interaction Logic
+Scenario:
+A startup in Barcelona is planning a fundraising pitch and arranges their leadership seating. Malia,
+the CEO, sits opposite Kai, the CTO, to maintain a healthy debate dynamic. Noah acts as mediator and
+sits beside Kai, while Luis and Ava prefer not to sit next to each other due to recent
+disagreements. Leaders often balance visibility with approachability through spatial positioning.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Malia?
+
+Answer:
+Kai occupies the center, while Malia and Luis sit on either side to balance communication flow.
+
+Case 66: Product Planning Discussion
+Scenario:
+A research group in Zurich holds its weekly strategy meeting around a circular table. In this
+session, Daria mentors Isha, so they choose adjacent seats. Ibrahim, the team psychologist, sits
+between Elara and Jonas to ease tension after a conflict last week. Seating reveals subtle power
+dynamics and comfort levels within a team.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Daria?
+
+Answer:
+Daria and Ibrahim being key roles means Elara sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 67: Research Collaboration Setup
+Scenario:
+In Zurich, a group of five engineers gathers to troubleshoot a system failure. Jiro, the CEO, sits
+opposite Luis, the CTO, to maintain a healthy debate dynamic. Ava acts as mediator and sits beside
+Luis, while Maya and Eli prefer not to sit next to each other due to recent disagreements. Effective
+seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Maya?
+
+Answer:
+Ava and Eli flank Luis to balance expertise from both design and operations sides.
+
+Case 68: Innovation Workshop
+Scenario:
+A product development team in Zurich meets to discuss a new prototype. Isha, the project manager,
+always sits between the design and engineering leads (Jiro and Omar) to balance perspectives. Zara
+and Saif are both extroverts and tend to sit opposite each other to share ideas more easily. Seating
+reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Zara?
+
+Answer:
+Isha occupies the center, while Jiro and Zara sit on either side to balance communication flow.
+
+Case 69: Leadership Arrangement
+Scenario:
+A research group in Helsinki holds its weekly strategy meeting around a circular table. Ibrahim, the
+project manager, always sits between the design and engineering leads (Kai and Mei) to balance
+perspectives. Tariq and Mina are both extroverts and tend to sit opposite each other to share ideas
+more easily. Collaborative teams naturally arrange themselves around complementary roles rather than
+rank.
+
+Reasoning question:
+Who likely occupies the position between Kai and Tariq?
+
+Answer:
+Ibrahim occupies the center, while Kai and Tariq sit on either side to balance communication flow.
+
+Case 70: Boardroom Interaction Logic
+Scenario:
+In Stockholm, a group of five engineers gathers to troubleshoot a system failure. Carmen, the CEO,
+sits opposite Kai, the CTO, to maintain a healthy debate dynamic. Tariq acts as mediator and sits
+beside Kai, while Sofia and Luis prefer not to sit next to each other due to recent disagreements.
+Seating reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Carmen?
+
+Answer:
+Tariq prefers sitting between Sofia and Luis for support, making Sofia one of the two closest to
+Tariq.
+
+Case 71: Product Planning Discussion
+Scenario:
+A product development team in Helsinki meets to discuss a new prototype. Ada, the project manager,
+always sits between the design and engineering leads (Jonas and Hana) to balance perspectives. Ava
+and Saif are both extroverts and tend to sit opposite each other to share ideas more easily. Leaders
+often balance visibility with approachability through spatial positioning.
+
+Reasoning question:
+Which two individuals sit beside Ada based on described preferences?
+
+Answer:
+Ada sits closest to Jonas, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 72: Conflict Resolution Meeting
+Scenario:
+A product development team in Paris meets to discuss a new prototype. In this session, Ravi mentors
+Carmen, so they choose adjacent seats. Luis, the team psychologist, sits between Jonas and Saif to
+ease tension after a conflict last week. Leaders often balance visibility with approachability
+through spatial positioning.
+
+Reasoning question:
+If Ravi faces Luis, who would Carmen be most comfortable sitting next to?
+
+Answer:
+Carmen and Saif flank Luis to balance expertise from both design and operations sides.
+
+Case 73: Engineering Roundtable
+Scenario:
+A research group in Sydney holds its weekly strategy meeting around a circular table. Arjun, the
+CEO, sits opposite Noah, the CTO, to maintain a healthy debate dynamic. Daria acts as mediator and
+sits beside Noah, while Saif and Eli prefer not to sit next to each other due to recent
+disagreements. Collaborative teams naturally arrange themselves around complementary roles rather
+than rank.
+
+Reasoning question:
+Who likely occupies the position between Arjun and Saif?
+
+Answer:
+Daria and Eli flank Noah to balance expertise from both design and operations sides.
+
+Case 74: Product Planning Discussion
+Scenario:
+A startup in Berlin is planning a fundraising pitch and arranges their leadership seating. Jonas,
+the project manager, always sits between the design and engineering leads (Luna and Nora) to balance
+perspectives. Ravi and Sofia are both extroverts and tend to sit opposite each other to share ideas
+more easily. Leaders often balance visibility with approachability through spatial positioning.
+
+Reasoning question:
+If Luna faces Jonas, who would Nora be most comfortable sitting next to?
+
+Answer:
+Nora and Sofia flank Jonas to balance expertise from both design and operations sides.
+
+Case 75: Team Dynamics Circle
+Scenario:
+In Cairo, a design sprint involves Maya, Ravi, Ada, Hiro, and Eli sitting in a brainstorming circle.
+Maya and Ravi are co-founders and like to sit side by side to present unity to the rest of the team.
+Ada, the operations lead, sits opposite them, while Hiro and Eli take the ends to facilitate
+communication flow. Collaborative teams naturally arrange themselves around complementary roles
+rather than rank.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Maya?
+
+Answer:
+Ravi occupies the center, while Maya and Hiro sit on either side to balance communication flow.
+
+Case 76: Conflict Resolution Meeting
+Scenario:
+A product development team in Toronto meets to discuss a new prototype. Fatima, the CEO, sits
+opposite Zara, the CTO, to maintain a healthy debate dynamic. Lea acts as mediator and sits beside
+Zara, while Ravi and Jiro prefer not to sit next to each other due to recent disagreements.
+Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+Who likely occupies the position between Fatima and Ravi?
+
+Answer:
+Zara sits closest to Fatima, maintaining the leader-analyst alignment while keeping others grouped
+by comfort.
+
+Case 77: Boardroom Interaction Logic
+Scenario:
+A research group in Sydney holds its weekly strategy meeting around a circular table. Jonas, the
+CEO, sits opposite Hana, the CTO, to maintain a healthy debate dynamic. Isha acts as mediator and
+sits beside Hana, while Malia and Yara prefer not to sit next to each other due to recent
+disagreements. Collaborative teams naturally arrange themselves around complementary roles rather
+than rank.
+
+Reasoning question:
+Who likely occupies the position between Jonas and Malia?
+
+Answer:
+Isha prefers sitting between Malia and Yara for support, making Malia one of the two closest to
+Isha.
+
+Case 78: Research Collaboration Setup
+Scenario:
+In Mumbai, a group of five engineers gathers to troubleshoot a system failure. In this session, Isha
+mentors Ibrahim, so they choose adjacent seats. Hana, the team psychologist, sits between Saif and
+Elara to ease tension after a conflict last week. Seating reveals subtle power dynamics and comfort
+levels within a team.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Saif?
+
+Answer:
+Isha and Hana being key roles means Saif sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 79: Research Collaboration Setup
+Scenario:
+A product development team in Paris meets to discuss a new prototype. In this session, Tariq mentors
+Luis, so they choose adjacent seats. Zara, the team psychologist, sits between Maya and Santiago to
+ease tension after a conflict last week. Understanding spatial logic helps predict group harmony and
+focus.
+
+Reasoning question:
+If Tariq faces Zara, who would Luis be most comfortable sitting next to?
+
+Answer:
+Luis and Santiago flank Zara to balance expertise from both design and operations sides.
+
+Case 80: Product Planning Discussion
+Scenario:
+In Toronto, a design sprint involves Luna, Eli, Jiro, Hiro, and Omar sitting in a brainstorming
+circle. Luna, the CEO, sits opposite Eli, the CTO, to maintain a healthy debate dynamic. Jiro acts
+as mediator and sits beside Eli, while Hiro and Omar prefer not to sit next to each other due to
+recent disagreements. Leaders often balance visibility with approachability through spatial
+positioning.
+
+Reasoning question:
+Who likely occupies the position between Luna and Hiro?
+
+Answer:
+Eli occupies the center, while Luna and Hiro sit on either side to balance communication flow.
+
+Case 81: Research Collaboration Setup
+Scenario:
+In Rome, a group of five engineers gathers to troubleshoot a system failure. Malia, the team leader,
+prefers to sit facing Isha, the data analyst, to maintain direct eye contact during discussions.
+Ravi, the new intern, feels more comfortable sitting between Arjun and Tariq, who are senior
+developers. Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+Which two individuals sit beside Isha based on described preferences?
+
+Answer:
+Ravi prefers sitting between Arjun and Tariq for support, making Arjun one of the two closest to
+Ravi.
+
+Case 82: Engineering Roundtable
+Scenario:
+A startup in Mumbai is planning a fundraising pitch and arranges their leadership seating. In this
+session, Maya mentors Theo, so they choose adjacent seats. Elara, the team psychologist, sits
+between Luis and Mei to ease tension after a conflict last week. Understanding spatial logic helps
+predict group harmony and focus.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Maya?
+
+Answer:
+Elara sits closest to Maya, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 83: Engineering Roundtable
+Scenario:
+In Osaka, a group of five engineers gathers to troubleshoot a system failure. Elara, the team
+leader, prefers to sit facing Yara, the data analyst, to maintain direct eye contact during
+discussions. Saif, the new intern, feels more comfortable sitting between Luna and Hana, who are
+senior developers. Leaders often balance visibility with approachability through spatial
+positioning.
+
+Reasoning question:
+If Elara faces Yara, who would Saif be most comfortable sitting next to?
+
+Answer:
+Yara sits closest to Elara, maintaining the leader-analyst alignment while keeping others grouped by
+comfort.
+
+Case 84: Engineering Roundtable
+Scenario:
+A research group in Geneva holds its weekly strategy meeting around a circular table. Mei and Saif
+are co-founders and like to sit side by side to present unity to the rest of the team. Lea, the
+operations lead, sits opposite them, while Arjun and Nora take the ends to facilitate communication
+flow. Collaborative teams naturally arrange themselves around complementary roles rather than rank.
+
+Reasoning question:
+Who likely occupies the position between Mei and Arjun?
+
+Answer:
+Lea prefers sitting between Arjun and Nora for support, making Arjun one of the two closest to Lea.
+
+Case 85: Product Planning Discussion
+Scenario:
+A product development team in Barcelona meets to discuss a new prototype. Maya and Lea are co-
+founders and like to sit side by side to present unity to the rest of the team. Carmen, the
+operations lead, sits opposite them, while Ravi and Luis take the ends to facilitate communication
+flow. Effective seating arrangements mirror how teams communicate and resolve tension.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Ravi?
+
+Answer:
+Maya and Lea being key roles means Ravi sits opposite them, ensuring equal visibility in
+discussions.
+
+Case 86: Engineering Roundtable
+Scenario:
+In Singapore, a group of five engineers gathers to troubleshoot a system failure. In this session,
+Eli mentors Hana, so they choose adjacent seats. Ada, the team psychologist, sits between Jiro and
+Arjun to ease tension after a conflict last week. Understanding spatial logic helps predict group
+harmony and focus.
+
+Reasoning question:
+Who likely occupies the position between Eli and Jiro?
+
+Answer:
+Ada occupies the center, while Eli and Jiro sit on either side to balance communication flow.
+
+Case 87: Product Planning Discussion
+Scenario:
+A research group in Stockholm holds its weekly strategy meeting around a circular table. Malia, the
+team leader, prefers to sit facing Isha, the data analyst, to maintain direct eye contact during
+discussions. Fatima, the new intern, feels more comfortable sitting between Hiro and Saif, who are
+senior developers. Understanding spatial logic helps predict group harmony and focus.
+
+Reasoning question:
+Who likely occupies the position between Malia and Hiro?
+
+Answer:
+Isha occupies the center, while Malia and Hiro sit on either side to balance communication flow.
+
+Case 88: Startup Strategy Session
+Scenario:
+In Sydney, a design sprint involves Sofia, Theo, Saif, Jiro, and Nikolai sitting in a brainstorming
+circle. In this session, Sofia mentors Saif, so they choose adjacent seats. Theo, the team
+psychologist, sits between Jiro and Nikolai to ease tension after a conflict last week. Seating
+reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+Which two individuals sit beside Theo based on described preferences?
+
+Answer:
+Saif prefers sitting between Jiro and Nikolai for support, making Jiro one of the two closest to
+Saif.
+
+Case 89: Team Dynamics Circle
+Scenario:
+In Geneva, a group of five engineers gathers to troubleshoot a system failure. In this session,
+Daria mentors Omar, so they choose adjacent seats. Hana, the team psychologist, sits between Naomi
+and Fatima to ease tension after a conflict last week. Leaders often balance visibility with
+approachability through spatial positioning.
+
+Reasoning question:
+Who likely occupies the position between Daria and Naomi?
+
+Answer:
+Omar and Fatima flank Hana to balance expertise from both design and operations sides.
+
+Case 90: Boardroom Interaction Logic
+Scenario:
+In Cairo, a group of five engineers gathers to troubleshoot a system failure. Luis and Mei are co-
+founders and like to sit side by side to present unity to the rest of the team. Hiro, the operations
+lead, sits opposite them, while Mina and Kai take the ends to facilitate communication flow.
+Collaborative teams naturally arrange themselves around complementary roles rather than rank.
+
+Reasoning question:
+Who likely occupies the position between Luis and Mina?
+
+Answer:
+Mei occupies the center, while Luis and Mina sit on either side to balance communication flow.
+
+Case 91: Startup Strategy Session
+Scenario:
+A startup in New York is planning a fundraising pitch and arranges their leadership seating. Saif
+and Ada are co-founders and like to sit side by side to present unity to the rest of the team.
+Tariq, the operations lead, sits opposite them, while Hana and Eli take the ends to facilitate
+communication flow. Collaborative teams naturally arrange themselves around complementary roles
+rather than rank.
+
+Reasoning question:
+If Saif faces Ada, who would Tariq be most comfortable sitting next to?
+
+Answer:
+Tariq prefers sitting between Hana and Eli for support, making Hana one of the two closest to Tariq.
+
+Case 92: Conflict Resolution Meeting
+Scenario:
+In Istanbul, a group of five engineers gathers to troubleshoot a system failure. Ava, the team
+leader, prefers to sit facing Sofia, the data analyst, to maintain direct eye contact during
+discussions. Arjun, the new intern, feels more comfortable sitting between Yara and Elara, who are
+senior developers. Collaborative teams naturally arrange themselves around complementary roles
+rather than rank.
+
+Reasoning question:
+Who likely occupies the position between Ava and Yara?
+
+Answer:
+Sofia occupies the center, while Ava and Yara sit on either side to balance communication flow.
+
+Case 93: Product Planning Discussion
+Scenario:
+A product development team in Geneva meets to discuss a new prototype. Nikolai, the team leader,
+prefers to sit facing Carmen, the data analyst, to maintain direct eye contact during discussions.
+Ibrahim, the new intern, feels more comfortable sitting between Ravi and Luna, who are senior
+developers. Leaders often balance visibility with approachability through spatial positioning.
+
+Reasoning question:
+Who likely occupies the position between Nikolai and Ravi?
+
+Answer:
+Ibrahim prefers sitting between Ravi and Luna for support, making Ravi one of the two closest to
+Ibrahim.
+
+Case 94: Leadership Arrangement
+Scenario:
+A research group in New York holds its weekly strategy meeting around a circular table. In this
+session, Nikolai mentors Maya, so they choose adjacent seats. Luna, the team psychologist, sits
+between Hiro and Ava to ease tension after a conflict last week. Collaborative teams naturally
+arrange themselves around complementary roles rather than rank.
+
+Reasoning question:
+Given these seating choices, who likely sits closest to Nikolai?
+
+Answer:
+Maya and Ava flank Luna to balance expertise from both design and operations sides.
+
+Case 95: Product Planning Discussion
+Scenario:
+In Toronto, a design sprint involves Noah, Carmen, Isha, Zara, and Omar sitting in a brainstorming
+circle. Noah and Carmen are co-founders and like to sit side by side to present unity to the rest of
+the team. Isha, the operations lead, sits opposite them, while Zara and Omar take the ends to
+facilitate communication flow. Leaders often balance visibility with approachability through spatial
+positioning.
+
+Reasoning question:
+If Noah faces Carmen, who would Isha be most comfortable sitting next to?
+
+Answer:
+Isha and Omar flank Carmen to balance expertise from both design and operations sides.
+
+Case 96: Team Dynamics Circle
+Scenario:
+A product development team in Sydney meets to discuss a new prototype. Isha and Hana are co-founders
+and like to sit side by side to present unity to the rest of the team. Carmen, the operations lead,
+sits opposite them, while Tariq and Sofia take the ends to facilitate communication flow. Leaders
+often balance visibility with approachability through spatial positioning.
+
+Reasoning question:
+Which two individuals sit beside Hana based on described preferences?
+
+Answer:
+Carmen and Sofia flank Hana to balance expertise from both design and operations sides.
+
+Case 97: Conflict Resolution Meeting
+Scenario:
+A research group in Toronto holds its weekly strategy meeting around a circular table. Isha, the
+CEO, sits opposite Sofia, the CTO, to maintain a healthy debate dynamic. Ada acts as mediator and
+sits beside Sofia, while Saif and Luis prefer not to sit next to each other due to recent
+disagreements. Seating reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Saif?
+
+Answer:
+Ada prefers sitting between Saif and Luis for support, making Saif one of the two closest to Ada.
+
+Case 98: Boardroom Interaction Logic
+Scenario:
+In Stockholm, a group of five engineers gathers to troubleshoot a system failure. In this session,
+Noah mentors Luis, so they choose adjacent seats. Santiago, the team psychologist, sits between Omar
+and Mei to ease tension after a conflict last week. Collaborative teams naturally arrange themselves
+around complementary roles rather than rank.
+
+Reasoning question:
+Which two individuals sit beside Santiago based on described preferences?
+
+Answer:
+Luis prefers sitting between Omar and Mei for support, making Omar one of the two closest to Luis.
+
+Case 99: Boardroom Interaction Logic
+Scenario:
+In Seville, a design sprint involves Ibrahim, Jiro, Maya, Luis, and Arjun sitting in a brainstorming
+circle. In this session, Ibrahim mentors Maya, so they choose adjacent seats. Jiro, the team
+psychologist, sits between Luis and Arjun to ease tension after a conflict last week. Collaborative
+teams naturally arrange themselves around complementary roles rather than rank.
+
+Reasoning question:
+Which two individuals sit beside Jiro based on described preferences?
+
+Answer:
+Jiro sits closest to Ibrahim, maintaining the leader-analyst alignment while keeping others grouped
+by comfort.
+
+Case 100: Team Coordination Table
+Scenario:
+A startup in Stockholm is planning a fundraising pitch and arranges their leadership seating. Maya,
+the team leader, prefers to sit facing Saif, the data analyst, to maintain direct eye contact during
+discussions. Arjun, the new intern, feels more comfortable sitting between Lea and Theo, who are
+senior developers. Seating reveals subtle power dynamics and comfort levels within a team.
+
+Reasoning question:
+According to the social dynamics, who sits opposite Lea?
+
+Answer:
+Saif occupies the center, while Maya and Lea sit on either side to balance communication flow.
+
